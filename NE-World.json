@@ -1,199 +1,269 @@
-﻿{
-"ReverseCategorys": false,
-"ShowPrivateWorld": false,
-"Categorys": [
-             {"Category": "同作者他ワールド",
-              "Worlds": [
-                         {"ID": "wrld_394d8546-62df-41d5-ad61-e211dbd95b52",
-                          "Name": "みたないへや",
-                          "RecommendedCapacity": 7,
-                          "Capacity": 20,
-                          "Description": "どこまでも、たりない。LastUpdate˸2025-01-24",
-                          "ReleaseStatus": "public",
-                          "Platform": {"PC": true,"Android": true}
-                         },
-                         {"ID": "wrld_c9be0316-5fe7-4753-831c-7d3cfec6be02",
-                          "Name": "Lulling Café -None TURE-",
-                          "RecommendedCapacity": 15,
-                          "Capacity": 40,
-                          "Description": "正しいことなんて何にもないんだよ。最終更新2025-03-01",
-                          "ReleaseStatus": "public",
-                          "Platform": {"PC": true,"Android": true}
-                         },
-                         {"ID": "wrld_f1ce5b1d-576a-4f2c-86bb-a0f7a4a1f2be",
-                          "Name": "none",
-                          "RecommendedCapacity": 7,
-                          "Capacity": 20,
-                          "Description": "仄かな光と薄闇が模るものはなんだろう。そこにぼくらは何を見出すのだろう。LastUpdate˸2025-03-10",
-                          "ReleaseStatus": "public",
-                          "Platform": {"PC": true,"Android": true}
-                         },
-                         {"ID": "wrld_9b301821-2229-4bd4-81c6-0249df378228",
-                          "Name": "侘び住まい",
-                          "RecommendedCapacity": 6,
-                          "Capacity": 20,
-                          "Description": "遠くの喧騒に思いを馳せて、今日も一日。LastUpdate˸2025-03-12",
-                          "ReleaseStatus": "public",
-                          "Platform": {"PC": true,"Android": true}
-                         }
-                        ]
-             },
-
-             {"Category": "sleep-chill",
-              "Worlds": [
-                         {"ID": "wrld_b3c848cd-af56-44fd-86b2-0a1cd0fec3a9",
-                          "Name": "OneRoom Light -F-",
-                          "RecommendedCapacity": 0,
-                          "Capacity": 50,
-                          "Description": "OneRoom -F-から重いギミックを外したタイプのFです。VR睡眠用や雑談、動画視聴、ホームワールドに。11⁄4 ライト関係の動作を修正",
-                          "ReleaseStatus": "public",
-                          "Platform": {"PC": true,"Android": true}
-                         },
-                         {"ID": "wrld_532fcc1a-5fcd-43bf-861e-d638631646d6",
-                          "Name": "OneRoom -F-",
-                          "RecommendedCapacity": 0,
-                          "Capacity": 50,
-                          "Description": "VR睡眠用や雑談、動画視聴、ホームワールドに。11⁄4 細かい更新",
-                          "ReleaseStatus": "public",
-                          "Platform": {"PC": true,"Android": true}
-                         },
-                         {"ID": "wrld_c7672ae8-1f67-4f56-b1b1-4d707981164b",
-                          "Name": "OneRoom -G-",
-                          "RecommendedCapacity": 0,
-                          "Capacity": 20,
-                          "Description": "VR睡眠用や雑談、動画視聴、ホームワールドに",
-                          "ReleaseStatus": "public",
-                          "Platform": {"PC": true,"Android": true}
-                         },
-                         {"ID": "wrld_5c07244e-c902-42d9-8a84-1f40a1661fa6",
-                          "Name": "OneRoom -C-",
-                          "RecommendedCapacity": 0,
-                          "Capacity": 50,
-                          "Description": "VR睡眠用や雑談、動画視聴、ホームワールドに。",
-                          "ReleaseStatus": "public",
-                          "Platform": {"PC": true,"Android": true}
-                         },
-                         {"ID": "wrld_6f51057b-db4b-428e-8ce9-396d81f4e665",
-                          "Name": "OneRoom -E-",
-                          "RecommendedCapacity": 0,
-                          "Capacity": 24,
-                          "Description": "VR睡眠用や雑談、動画視聴、ホームワールドに。7⁄27 iwaSyncをv3․6․6に更新",
-                          "ReleaseStatus": "public",
-                          "Platform": {"PC": true,"Android": true}
-                         },
-                         {"ID": "wrld_f44bfdc0-a153-4eea-b11a-a247894ae9f6",
-                          "Name": "OneRoom",
-                          "RecommendedCapacity": 0,
-                          "Capacity": 40,
-                          "Description": "VR睡眠用や雑談、動画視聴、ホームワールドに。7⁄27 iwaSyncをv3․6․6に更新",
-                          "ReleaseStatus": "public",
-                          "Platform": {"PC": true,"Android": true}
-                         },
-                         {"ID": "wrld_4d7ef809-18c7-4f08-9a4e-cb1e6950ab85",
-                          "Name": "OneRoom Old 2023",
-                          "RecommendedCapacity": 0,
-                          "Capacity": 40,
-                          "Description": "OneRoomの過去のバージョンです。VR睡眠用や雑談、動画視聴、ホームワールドに。",
-                          "ReleaseStatus": "public",
-                          "Platform": {"PC": true,"Android": true}
-                         },
-                         {"ID": "wrld_e04171c6-cc97-4fa5-b458-ae9c7d448d7f",
-                          "Name": "OneRoom Old 2022",
-                          "RecommendedCapacity": 0,
-                          "Capacity": 44,
-                          "Description": "OneRoomの過去のバージョンです。VR睡眠用や雑談、動画視聴、ホームワールドに。",
-                          "ReleaseStatus": "public",
-                          "Platform": {"PC": true,"Android": true}
-                         },
-                         {"ID": "wrld_5d2c504c-f3ae-4934-aaa2-25b11e4a73c8",
-                          "Name": "OneRoom -B-",
-                          "RecommendedCapacity": 0,
-                          "Capacity": 50,
-                          "Description": "VR睡眠用や雑談、動画視聴、ホームワールドに。7⁄21 Update：PC版、Quest版をVCCへ移行",
-                          "ReleaseStatus": "public",
-                          "Platform": {"PC": true,"Android": true}
-                         },
-                         {"ID": "wrld_cd2ad915-c8d8-4341-8c9e-12a00b8e2d9d",
-                          "Name": "OneRoom -A-",
-                          "RecommendedCapacity": 0,
-                          "Capacity": 50,
-                          "Description": "VR睡眠用や雑談、動画視聴、ホームワールドに。04⁄10 Update：PC版、Quest版をVCCへ移行",
-                          "ReleaseStatus": "public",
-                          "Platform": {"PC": true,"Android": true}
-                         },
-                         {"ID": "wrld_33175f04-714f-4918-bc84-942df7df7024",
-                          "Name": "OneRoom -D-",
-                          "RecommendedCapacity": 0,
-                          "Capacity": 50,
-                          "Description": "VR睡眠用や雑談、動画視聴、ホームワールドに。",
-                          "ReleaseStatus": "public",
-                          "Platform": {"PC": true,"Android": true}
-                         },
-                         {"ID": "wrld_6dfefae7-2c54-4420-86a4-0bf8a5dc747b",
-                          "Name": "Tae Room",
-                          "RecommendedCapacity": 0,
-                          "Capacity": 20,
-                          "Description": "VR睡眠、動画視聴に",
-                          "ReleaseStatus": "public",
-                          "Platform": {"PC": true,"Android": true}
-                         },
-                         {"ID": "wrld_7bb629cd-2416-46e3-9242-2c2eec705e90",
-                          "Name": "キロバイトのうみ - Sea of KB",
-                          "RecommendedCapacity": 0,
-                          "Capacity": 30,
-                          "Description": "キロバイトで構成された仮想の海辺。極限まで削られた容量の中に、必要なものは全て揃っています。",
-                          "ReleaseStatus": "public",
-                          "Platform": {"PC": true,"Android": true}
-                         },
-                         {"ID": "wrld_02c47782-767d-4986-995a-80bf2eb39524",
-                          "Name": "キロバイトのあめ - Rain of KB",
-                          "RecommendedCapacity": 0,
-                          "Capacity": 16,
-                          "Description": "キロバイトで構成された仮想の窓辺。極限まで削られた容量の中に、必要なものは全て揃っています。",
-                          "ReleaseStatus": "public",
-                          "Platform": {"PC": true,"Android": true}
-                         },
-                         {"ID": "wrld_bc1dfe96-91d4-4e96-ac41-243adbb3f1e4",
-                          "Name": "あなたの部屋では何も起こらない - Re˸Ordinary Room",
-                          "RecommendedCapacity": 0,
-                          "Capacity": 7,
-                          "Description": "祖父母の家をイメージしてフルスクラッチで制作したワールドです。（ギミックを除く） 何かが起こりましたら、ご報告ください。",
-                          "ReleaseStatus": "public",
-                          "Platform": {"PC": true,"Android": true}
-                         },
-                         {"ID": "wrld_49f816fc-0af3-4c48-b84a-4e0254a3aa42",
-                          "Name": "この部屋では何も起こらない - Ordinary Room",
-                          "RecommendedCapacity": 0,
-                          "Capacity": 10,
-                          "Description": "親戚の家の仏間をイメージしたホームワールドです。もしも何かが起こりましたら、ご報告ください。",
-                          "ReleaseStatus": "public",
-                          "Platform": {"PC": true,"Android": true}
-                         },
-                         {"ID": "wrld_3c8832d3-ee8d-4a59-97cf-2883a9afe8bc",
-                          "Name": "さよなら人類 - Goodbye‚ Humanity",
-                          "RecommendedCapacity": 0,
-                          "Capacity": 4,
-                          "Description": "こわれた磁石を 砂浜でひろっているだけさ",
-                          "ReleaseStatus": "public",
-                          "Platform": {"PC": true,"Android": true}
-                         },
-                         {"ID": "wrld_2cd9e73f-6012-4123-9ee5-1984d8ba57f8",
-                          "Name": "千六百円の事情 - 1600 Yen Inn",
-                          "RecommendedCapacity": 0,
-                          "Capacity": 4,
-                          "Description": "夜の気配を感じながら",
-                          "ReleaseStatus": "public",
-                          "Platform": {"PC": true,"Android": false}
-                         },
-                         {"ID": "wrld_0f61caf9-9be8-41a9-9cb2-5c16038cf3d5",
-                          "Name": "耳をふさいで夜を走る - Night Drive",
-                          "RecommendedCapacity": 0,
-                          "Capacity": 4,
-                          "Description": "振動を感じながら少し眠る",
-                          "ReleaseStatus": "public",
-                          "Platform": {"PC": true,"Android": false}
-                         }
-                        ]
-             }
-             ]
+{
+	"ReverseCategorys": false,
+	"ShowPrivateWorld": false,
+	"Categorys": [
+		{
+			"Category": "同作者他ワールド",
+			"Worlds": [
+				{
+					"ID": "wrld_394d8546-62df-41d5-ad61-e211dbd95b52",
+					"Name": "みたないへや",
+					"RecommendedCapacity": 7,
+					"Capacity": 20,
+					"Description": "どこまでも、たりない。LastUpdate˸2025-01-24",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_c9be0316-5fe7-4753-831c-7d3cfec6be02",
+					"Name": "Lulling Café -None TURE-",
+					"RecommendedCapacity": 15,
+					"Capacity": 50,
+					"Description": "正しいことなんて何にもないんだよ。LastUpdate˸2025-03-01",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_f1ce5b1d-576a-4f2c-86bb-a0f7a4a1f2be",
+					"Name": "none",
+					"RecommendedCapacity": 7,
+					"Capacity": 20,
+					"Description": "仄かな光と薄闇が模るものはなんだろう。そこにぼくらは何を見出すのだろう。LastUpdate˸2025-03-10",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_9b301821-2229-4bd4-81c6-0249df378228",
+					"Name": "侘び住まい",
+					"RecommendedCapacity": 5,
+					"Capacity": 20,
+					"Description": "遠くの喧騒に思いを馳せて、今日も一日。LastUpdate˸2025-03-13",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				}
+			]
+		},
+		{
+			"Category": "sleep-chill",
+			"Worlds": [
+				{
+					"ID": "wrld_b3c848cd-af56-44fd-86b2-0a1cd0fec3a9",
+					"Name": "OneRoom Light -F-",
+					"RecommendedCapacity": 50,
+					"Capacity": 50,
+					"Description": "OneRoom -F-から重いギミックを外したタイプのFです。VR睡眠用や雑談、動画視聴、ホームワールドに。11⁄4 ライト関係の動作を修正",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_532fcc1a-5fcd-43bf-861e-d638631646d6",
+					"Name": "OneRoom -F-",
+					"RecommendedCapacity": 50,
+					"Capacity": 50,
+					"Description": "VR睡眠用や雑談、動画視聴、ホームワールドに。11⁄4 細かい更新",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_c7672ae8-1f67-4f56-b1b1-4d707981164b",
+					"Name": "OneRoom -G-",
+					"RecommendedCapacity": 20,
+					"Capacity": 20,
+					"Description": "VR睡眠用や雑談、動画視聴、ホームワールドに",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_5c07244e-c902-42d9-8a84-1f40a1661fa6",
+					"Name": "OneRoom -C-",
+					"RecommendedCapacity": 25,
+					"Capacity": 50,
+					"Description": "VR睡眠用や雑談、動画視聴、ホームワールドに。",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_6f51057b-db4b-428e-8ce9-396d81f4e665",
+					"Name": "OneRoom -E-",
+					"RecommendedCapacity": 12,
+					"Capacity": 24,
+					"Description": "VR睡眠用や雑談、動画視聴、ホームワールドに。7⁄27 iwaSyncをv3․6․6に更新",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_f44bfdc0-a153-4eea-b11a-a247894ae9f6",
+					"Name": "OneRoom",
+					"RecommendedCapacity": 25,
+					"Capacity": 40,
+					"Description": "VR睡眠用や雑談、動画視聴、ホームワールドに。7⁄27 iwaSyncをv3․6․6に更新",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_4d7ef809-18c7-4f08-9a4e-cb1e6950ab85",
+					"Name": "OneRoom Old 2023",
+					"RecommendedCapacity": 25,
+					"Capacity": 40,
+					"Description": "OneRoomの過去のバージョンです。VR睡眠用や雑談、動画視聴、ホームワールドに。",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_e04171c6-cc97-4fa5-b458-ae9c7d448d7f",
+					"Name": "OneRoom Old 2022",
+					"RecommendedCapacity": 22,
+					"Capacity": 44,
+					"Description": "OneRoomの過去のバージョンです。VR睡眠用や雑談、動画視聴、ホームワールドに。",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_5d2c504c-f3ae-4934-aaa2-25b11e4a73c8",
+					"Name": "OneRoom -B-",
+					"RecommendedCapacity": 25,
+					"Capacity": 50,
+					"Description": "VR睡眠用や雑談、動画視聴、ホームワールドに。7⁄21 Update：PC版、Quest版をVCCへ移行",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_cd2ad915-c8d8-4341-8c9e-12a00b8e2d9d",
+					"Name": "OneRoom -A-",
+					"RecommendedCapacity": 25,
+					"Capacity": 50,
+					"Description": "VR睡眠用や雑談、動画視聴、ホームワールドに。04⁄10 Update：PC版、Quest版をVCCへ移行",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_33175f04-714f-4918-bc84-942df7df7024",
+					"Name": "OneRoom -D-",
+					"RecommendedCapacity": 25,
+					"Capacity": 50,
+					"Description": "VR睡眠用や雑談、動画視聴、ホームワールドに。",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_6dfefae7-2c54-4420-86a4-0bf8a5dc747b",
+					"Name": "Tae Room",
+					"RecommendedCapacity": 10,
+					"Capacity": 20,
+					"Description": "VR睡眠、動画視聴に",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_7bb629cd-2416-46e3-9242-2c2eec705e90",
+					"Name": "キロバイトのうみ - Sea of KB",
+					"RecommendedCapacity": 30,
+					"Capacity": 30,
+					"Description": "キロバイトで構成された仮想の海辺。極限まで削られた容量の中に、必要なものは全て揃っています。",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_02c47782-767d-4986-995a-80bf2eb39524",
+					"Name": "キロバイトのあめ - Rain of KB",
+					"RecommendedCapacity": 16,
+					"Capacity": 16,
+					"Description": "キロバイトで構成された仮想の窓辺。極限まで削られた容量の中に、必要なものは全て揃っています。",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_bc1dfe96-91d4-4e96-ac41-243adbb3f1e4",
+					"Name": "あなたの部屋では何も起こらない - Re˸Ordinary Room",
+					"RecommendedCapacity": 7,
+					"Capacity": 7,
+					"Description": "祖父母の家をイメージしてフルスクラッチで制作したワールドです。（ギミックを除く） 何かが起こりましたら、ご報告ください。",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_49f816fc-0af3-4c48-b84a-4e0254a3aa42",
+					"Name": "この部屋では何も起こらない - Ordinary Room",
+					"RecommendedCapacity": 10,
+					"Capacity": 10,
+					"Description": "親戚の家の仏間をイメージしたホームワールドです。もしも何かが起こりましたら、ご報告ください。",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_3c8832d3-ee8d-4a59-97cf-2883a9afe8bc",
+					"Name": "さよなら人類 - Goodbye‚ Humanity",
+					"RecommendedCapacity": 4,
+					"Capacity": 4,
+					"Description": "こわれた磁石を 砂浜でひろっているだけさ",
+					"Platform": {
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_2cd9e73f-6012-4123-9ee5-1984d8ba57f8",
+					"Name": "千六百円の事情 - 1600 Yen Inn",
+					"RecommendedCapacity": 4,
+					"Capacity": 4,
+					"Description": "夜の気配を感じながら",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				},
+				{
+					"ID": "wrld_0f61caf9-9be8-41a9-9cb2-5c16038cf3d5",
+					"Name": "耳をふさいで夜を走る - Night Drive",
+					"RecommendedCapacity": 4,
+					"Capacity": 4,
+					"Description": "振動を感じながら少し眠る",
+					"Platform": {
+						"PC": true,
+						"Android": false
+					}
+				}
+			]
+		}
+	]
 }
