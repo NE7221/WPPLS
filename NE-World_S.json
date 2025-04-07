@@ -1,0 +1,131 @@
+{
+"ReverseCategorys": false,
+"ShowPrivateWorld": false,
+"Categorys": [
+{
+"Category": "MMD",
+"Worlds": [
+{
+"ID": "wrld_e684c2c3-4a13-4ad4-9b9c-698b1059b359",
+"Name": "i丫 MM口 W口RLD UNOFFICIAL 2",
+"RecommendedCapacity": 80,
+"Capacity": 80,
+"Description": "非常抱歉侵犯了原作者的版权 通过了奇怪的方式上传 本人不持有任何工程文件 不知道能活多久 如果失效我會再度上傳 直到被肉身DMCA ///Please support the real author‚ Iris Alias․ I'm just a thief․//진짜 작가 Iris Alias를 응원해주세요․ 저는 그냥 도둑일 뿐이에요․",
+"ReleaseStatus": "public",
+"Platform": {
+"PC": true,
+"Android": false
+}
+},
+{
+"ID": "wrld_6aa7e36a-1449-4033-aaa0-3470a8460cfa",
+"Name": "MMD",
+"RecommendedCapacity": 20,
+"Capacity": 20,
+"Description": "Stop updating",
+"ReleaseStatus": "public",
+"Platform": {
+"PC": true,
+"Android": false
+}
+},
+{
+"ID": "wrld_5111901a-64d2-49fd-8b6c-80c2044402a0",
+"Name": "SapMMD",
+"RecommendedCapacity": 16,
+"Capacity": 32,
+"Description": "Sap MMD world",
+"ReleaseStatus": "public",
+"Platform": {
+"PC": true,
+"Android": false
+}
+},
+{
+"ID": "wrld_3dfd4b3b-175f-438f-8d4d-ac553bea0dce",
+"Name": "MR MMD World",
+"RecommendedCapacity": 20,
+"Capacity": 40,
+"Description": "MR MMD World․ Twitter - ＠VRC_Missing_ ｜ Twitter - ＠VRC_rang_lee",
+"ReleaseStatus": "public",
+"Platform": {
+"PC": true,
+"Android": false
+}
+},
+{
+"ID": "wrld_46eefef5-1907-4d59-9f05-1108cba20455",
+"Name": "Aparches MMD World",
+"RecommendedCapacity": 64,
+"Capacity": 64,
+"Description": "Updated 2025-03-15",
+"ReleaseStatus": "public",
+"Platform": {
+"PC": true,
+"Android": false
+}
+},
+{
+"ID": "wrld_6ba03dc7-f639-47a8-8fb7-a7ee2ba4aefc",
+"Name": "Nero's MMD world",
+"RecommendedCapacity": 16,
+"Capacity": 24,
+"Description": "Yet another MMD world‚ but I wanna make this one unique and include a bunch of good songs․ The world is under active development‚ last update April 1st․",
+"ReleaseStatus": "public",
+"Platform": {
+"PC": true,
+"Android": false
+}
+},
+{
+"ID": "wrld_9b26bf9f-e0c9-4b46-9bc9-1f88e271d7e5",
+"Name": "YH MMD WORLD",
+"RecommendedCapacity": 16,
+"Capacity": 32,
+"Description": "首个中文大型MMD房，不定时会更新歌曲。MMD世界讨论群：765807879 持久化歌曲收藏功能上线",
+"ReleaseStatus": "public",
+"Platform": {
+"PC": true,
+"Android": false
+}
+},
+{
+"ID": "wrld_892724d9-342a-4303-9648-3017b7bb2d81",
+"Name": "【JP】おしるこ MMD world",
+"RecommendedCapacity": 32,
+"Capacity": 32,
+"Description": "Twitter - ＠0__si6",
+"ReleaseStatus": "public",
+"Platform": {
+"PC": true,
+"Android": false
+}
+},
+{
+"ID": "wrld_c7069c61-7fc7-4712-be19-23a2c11134c7",
+"Name": "CA MMD WORLD",
+"RecommendedCapacity": 16,
+"Capacity": 32,
+"Description": "CA MMD WORLD Sync Update",
+"ReleaseStatus": "public",
+"Platform": {
+"PC": true,
+"Android": false
+}
+},
+{
+"ID": "wrld_776a6a37-f307-43f4-aeef-8f151f38dba4",
+"Name": "MMD JP Music",
+"RecommendedCapacity": 15,
+"Capacity": 19,
+"Description": "MMD JP-Music v3․2 11․14․2024 Ai＆Ae Team",
+"ReleaseStatus": "public",
+"Platform": {
+"PC": true,
+"Android": false
+}
+}
+]
+}
+]
+}
