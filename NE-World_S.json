@@ -1,131 +1,303 @@
 {
-"ReverseCategorys": false,
-"ShowPrivateWorld": false,
-"Categorys": [
-{
-"Category": "MMD",
-"Worlds": [
-{
-"ID": "wrld_e684c2c3-4a13-4ad4-9b9c-698b1059b359",
-"Name": "i丫 MM口 W口RLD UNOFFICIAL 2",
-"RecommendedCapacity": 80,
-"Capacity": 80,
-"Description": "非常抱歉侵犯了原作者的版权 通过了奇怪的方式上传 本人不持有任何工程文件 不知道能活多久 如果失效我會再度上傳 直到被肉身DMCA ///Please support the real author‚ Iris Alias․ I'm just a thief․//진짜 작가 Iris Alias를 응원해주세요․ 저는 그냥 도둑일 뿐이에요․",
-"ReleaseStatus": "public",
-"Platform": {
-"PC": true,
-"Android": false
-}
-},
-{
-"ID": "wrld_6aa7e36a-1449-4033-aaa0-3470a8460cfa",
-"Name": "MMD",
-"RecommendedCapacity": 20,
-"Capacity": 20,
-"Description": "Stop updating",
-"ReleaseStatus": "public",
-"Platform": {
-"PC": true,
-"Android": false
-}
-},
-{
-"ID": "wrld_5111901a-64d2-49fd-8b6c-80c2044402a0",
-"Name": "SapMMD",
-"RecommendedCapacity": 16,
-"Capacity": 32,
-"Description": "Sap MMD world",
-"ReleaseStatus": "public",
-"Platform": {
-"PC": true,
-"Android": false
-}
-},
-{
-"ID": "wrld_3dfd4b3b-175f-438f-8d4d-ac553bea0dce",
-"Name": "MR MMD World",
-"RecommendedCapacity": 20,
-"Capacity": 40,
-"Description": "MR MMD World․ Twitter - ＠VRC_Missing_ ｜ Twitter - ＠VRC_rang_lee",
-"ReleaseStatus": "public",
-"Platform": {
-"PC": true,
-"Android": false
-}
-},
-{
-"ID": "wrld_46eefef5-1907-4d59-9f05-1108cba20455",
-"Name": "Aparches MMD World",
-"RecommendedCapacity": 64,
-"Capacity": 64,
-"Description": "Updated 2025-03-15",
-"ReleaseStatus": "public",
-"Platform": {
-"PC": true,
-"Android": false
-}
-},
-{
-"ID": "wrld_6ba03dc7-f639-47a8-8fb7-a7ee2ba4aefc",
-"Name": "Nero's MMD world",
-"RecommendedCapacity": 16,
-"Capacity": 24,
-"Description": "Yet another MMD world‚ but I wanna make this one unique and include a bunch of good songs․ The world is under active development‚ last update April 1st․",
-"ReleaseStatus": "public",
-"Platform": {
-"PC": true,
-"Android": false
-}
-},
-{
-"ID": "wrld_9b26bf9f-e0c9-4b46-9bc9-1f88e271d7e5",
-"Name": "YH MMD WORLD",
-"RecommendedCapacity": 16,
-"Capacity": 32,
-"Description": "首个中文大型MMD房，不定时会更新歌曲。MMD世界讨论群：765807879 持久化歌曲收藏功能上线",
-"ReleaseStatus": "public",
-"Platform": {
-"PC": true,
-"Android": false
-}
-},
-{
-"ID": "wrld_892724d9-342a-4303-9648-3017b7bb2d81",
-"Name": "【JP】おしるこ MMD world",
-"RecommendedCapacity": 32,
-"Capacity": 32,
-"Description": "Twitter - ＠0__si6",
-"ReleaseStatus": "public",
-"Platform": {
-"PC": true,
-"Android": false
-}
-},
-{
-"ID": "wrld_c7069c61-7fc7-4712-be19-23a2c11134c7",
-"Name": "CA MMD WORLD",
-"RecommendedCapacity": 16,
-"Capacity": 32,
-"Description": "CA MMD WORLD Sync Update",
-"ReleaseStatus": "public",
-"Platform": {
-"PC": true,
-"Android": false
-}
-},
-{
-"ID": "wrld_776a6a37-f307-43f4-aeef-8f151f38dba4",
-"Name": "MMD JP Music",
-"RecommendedCapacity": 15,
-"Capacity": 19,
-"Description": "MMD JP-Music v3․2 11․14․2024 Ai＆Ae Team",
-"ReleaseStatus": "public",
-"Platform": {
-"PC": true,
-"Android": false
-}
-}
-]
-}
-]
+	"ReverseCategorys": false,
+	"ShowPrivateWorld": false,
+	"Categorys": [
+		{
+			"Category": "非公開同作者他ワールド",
+			"Worlds": [
+				{
+					"ID": "wrld_871e5821-5952-47c8-8a51-e1233a630e4c",
+					"Name": "NAWB-No․M",
+					"RecommendedCapacity": 10,
+					"Capacity": 10,
+					"Description": "水瀬改変展示用",
+					"ReleaseStatus": "public",
+					"Platform": 
+						{
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_82d6754b-02b1-4fd5-a708-0e76f87248d7",
+					"Name": "NAW（和）",
+					"RecommendedCapacity": 10,
+					"Capacity": 10,
+					"Description": "",
+					"ReleaseStatus": "public",
+					"Platform": 
+						{
+						"PC": true,
+						"Android": true
+					}
+				}
+			]
+		},
+
+		{
+			"Category": "MMD",
+			"Worlds": [
+				{
+					"ID": "wrld_9b26bf9f-e0c9-4b46-9bc9-1f88e271d7e5",
+					"Name": "YH MMD WORLD",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "首个中文大型MMD房，不定时会更新歌曲。MMD世界讨论群：765807879 持久化歌曲收藏功能上线",
+					"ReleaseStatus": "public",
+					"Platform": 
+						{
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_7cb61afe-5a0c-4ca6-a041-027c88a389b3",
+					"Name": "~ MMD WORLD ~",
+					"RecommendedCapacity": 10,
+					"Capacity": 20,
+					"Description": "The World will be replace with new one soon that more stable․ It will be a simple code world because it will be only be made by myself （ ＾ v ＾ ;）",
+					"ReleaseStatus": "public",
+					"Platform": 
+						{
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_46eefef5-1907-4d59-9f05-1108cba20455",
+					"Name": "Aparches MMD World",
+					"RecommendedCapacity": 64,
+					"Capacity": 64,
+					"Description": "Updated 2025-03-15",
+					"ReleaseStatus": "public",
+					"Platform": 
+						{
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_c7069c61-7fc7-4712-be19-23a2c11134c7",
+					"Name": "CA MMD WORLD",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "CA MMD WORLD Sync Update",
+					"ReleaseStatus": "public",
+					"Platform": 
+						{
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_eda51528-be3b-4bd3-9364-47016adffbb5",
+					"Name": "Dol Shorts MMD World - wwg",
+					"RecommendedCapacity": 20,
+					"Capacity": 40,
+					"Description": "돌쇼츠에서 직접 모션캡쳐로 제작한 이세돌‚ 왁타버스 쇼츠영상으로 이루어진 MMD 월드입니다․",
+					"ReleaseStatus": "public",
+					"Platform": 
+						{
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_c8388418-3182-4200-a488-592a2f66df84",
+					"Name": "Kamisato MMD",
+					"RecommendedCapacity": 1,
+					"Capacity": 5,
+					"Description": "A simple MMD world inside of the Kamisato Estate․ Will add more",
+					"ReleaseStatus": "public",
+					"Platform": 
+						{
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_6aa7e36a-1449-4033-aaa0-3470a8460cfa",
+					"Name": "MMD",
+					"RecommendedCapacity": 20,
+					"Capacity": 20,
+					"Description": "Stop updating",
+					"ReleaseStatus": "public",
+					"Platform": 
+						{
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_f6de97af-bea8-4da8-a964-f72a5936a284",
+					"Name": "MMD AND U",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "モーションキャプチャ系のMMDをメインに置いています。",
+					"ReleaseStatus": "public",
+					"Platform": 
+						{
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_9dfca5db-495a-482b-9be9-1fed3e039e0e",
+					"Name": "MMD Club for Gentlemen",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "World under constructionǃ Alpha versionǃ",
+					"ReleaseStatus": "public",
+					"Platform": 
+						{
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_a23a67da-4dd8-4d26-ab3f-0ae870d990d6",
+					"Name": "mmd home",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "the project broken and will not be updated",
+					"ReleaseStatus": "public",
+					"Platform": 
+						{
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_776a6a37-f307-43f4-aeef-8f151f38dba4",
+					"Name": "MMD JP Music",
+					"RecommendedCapacity": 15,
+					"Capacity": 19,
+					"Description": "MMD JP-Music v3․2 11․14․2024 Ai＆Ae Team",
+					"ReleaseStatus": "public",
+					"Platform": 
+						{
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_0fd20059-267f-42d7-8791-1384203fd385",
+					"Name": "MMD Night",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "MMD Dance World․ 2025․01․30˸ ＋2 songs ｜ ＋1 Stage",
+					"ReleaseStatus": "public",
+					"Platform": 
+						{
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_3dfd4b3b-175f-438f-8d4d-ac553bea0dce",
+					"Name": "MR MMD World",
+					"RecommendedCapacity": 20,
+					"Capacity": 40,
+					"Description": "MR MMD World․ Twitter - ＠VRC_Missing_ ｜ Twitter - ＠VRC_rang_lee",
+					"ReleaseStatus": "public",
+					"Platform": 
+						{
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_6ba03dc7-f639-47a8-8fb7-a7ee2ba4aefc",
+					"Name": "Nero's MMD world",
+					"RecommendedCapacity": 16,
+					"Capacity": 24,
+					"Description": "Yet another MMD world‚ but I wanna make this one unique and include a bunch of good songs․ The world is under active development‚ last update April 1st․",
+					"ReleaseStatus": "public",
+					"Platform": 
+						{
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_1f4fcf22-86a4-413b-a4e7-a58ed45d5d06",
+					"Name": "Nero's MMD world Light",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "Yet another MMD world‚ but I wanna make this one unique and include a bunch of good songs․ The world is under active development․ Lightweight version․ The world is under active development‚ last update April 14․",
+					"ReleaseStatus": "public",
+					"Platform": 
+						{
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_85225af2-d48d-49f4-a817-fc8b641248a8",
+					"Name": "Nero's MMD world VIP",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "Yet another MMD world‚ but I wanna make this one unique and include a bunch of good songs․ The world is under active development‚ last update April 17․",
+					"ReleaseStatus": "public",
+					"Platform": 
+						{
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_384b5794-e19d-4608-b116-cf580c6e878a",
+					"Name": "NW MMD WORLD",
+					"RecommendedCapacity": 12,
+					"Capacity": 24,
+					"Description": "NW MMD WORLD / Last Update 2025․04․19 fixed the error",
+					"ReleaseStatus": "public",
+					"Platform": 
+						{
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_5111901a-64d2-49fd-8b6c-80c2044402a0",
+					"Name": "SapMMD",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "Sap MMD world",
+					"ReleaseStatus": "public",
+					"Platform": 
+						{
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_36663de3-a81e-48b9-9f04-6173ddfeb234",
+					"Name": "プロセカ 25xVBS MMD WORLD",
+					"RecommendedCapacity": 15,
+					"Capacity": 30,
+					"Description": "2025․1․26 Add new song ヘイヴン World still in progress․ Where is 失敗作少女․․․․․․․․․․․․․․․",
+					"ReleaseStatus": "public",
+					"Platform": 
+						{
+						"PC": true,
+						"Android": true
+					}
+				},
+				{
+					"ID": "wrld_cce304b8-78e2-4fa5-adb1-373aa96feae4",
+					"Name": "プロセカ ProjectSekai MMD LN x VS",
+					"RecommendedCapacity": 16,
+					"Capacity": 32,
+					"Description": "2024․11․06 updated˸ new song -モザイクロール (Reloaded）、熱風",
+					"ReleaseStatus": "public",
+					"Platform": 
+						{
+						"PC": true,
+						"Android": true
+					}
+				}
+			]
+		}
+	]
 }
