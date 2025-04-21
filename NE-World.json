@@ -12,7 +12,8 @@
 					"Capacity": 20,
 					"Description": "どこまでも、たりない。LastUpdate˸2025-01-24",
 					"ReleaseStatus": "public",
-					"Platform": {
+					"Platform": 
+						{
 						"PC": true,
 						"Android": true
 					}
@@ -24,7 +25,8 @@
 					"Capacity": 40,
 					"Description": "正しいことなんて何にもないんだよ。最終更新2025-03-01",
 					"ReleaseStatus": "public",
-					"Platform": {
+					"Platform": 
+						{
 						"PC": true,
 						"Android": true
 					}
@@ -36,7 +38,8 @@
 					"Capacity": 20,
 					"Description": "仄かな光と薄闇が模るものはなんだろう。そこにぼくらは何を見出すのだろう。LastUpdate˸2025-03-10",
 					"ReleaseStatus": "public",
-					"Platform": {
+					"Platform": 
+						{
 						"PC": true,
 						"Android": true
 					}
@@ -48,7 +51,8 @@
 					"Capacity": 20,
 					"Description": "遠くの喧騒に思いを馳せて、今日も一日。LastUpdate˸2025-03-12",
 					"ReleaseStatus": "public",
-					"Platform": {
+					"Platform": 
+						{
 						"PC": true,
 						"Android": true
 					}
@@ -56,13 +60,14 @@
 				{
 					"ID": "wrld_c9533da7-e1bd-487d-a54a-a7e6110d053c",
 					"Name": "■",
-					"RecommendedCapacity": ,
-					"Capacity": ,
-					"Description": "",
-					"ReleaseStatus": "private",
-					"Platform": {
+					"RecommendedCapacity": 0,
+					"Capacity": 0,
+					"Description": "箱、箱、箱、箱。 ここは箱庭の集合体。",
+					"ReleaseStatus": "public",
+					"Platform": 
+						{
 						"PC": true,
-						"Android": false
+						"Android": true
 					}
 				},
 				{
@@ -72,7 +77,8 @@
 					"Capacity": 15,
 					"Description": "積み上げてきた箱の中でこれからも旅をする。",
 					"ReleaseStatus": "public",
-					"Platform": {
+					"Platform": 
+						{
 						"PC": true,
 						"Android": true
 					}
@@ -90,7 +96,8 @@
 					"Capacity": 40,
 					"Description": "日本語対応Portal Worldです。",
 					"ReleaseStatus": "public",
-					"Platform": {
+					"Platform": 
+						{
 						"PC": true,
 						"Android": true
 					}
@@ -102,7 +109,8 @@
 					"Capacity": 32,
 					"Description": "クロスプラットフォーム・日本語対応ポータルワールドです。",
 					"ReleaseStatus": "public",
-					"Platform": {
+					"Platform": 
+						{
 						"PC": true,
 						"Android": true
 					}
@@ -114,7 +122,8 @@
 					"Capacity": 80,
 					"Description": "【お知らせ】現在、ワールドの更新、イベントは休止中です。落ち着いたら大型アップデート予定。 【ワールド説明】Quest対応。動画とポスターで綺麗なワールドメインで紹介。隣接のBARでCAFEイベントも開催 【使い方】ポスターをUSEでポータルが出現(Global処理）。動画パネルではサムネイルを選択し動画とポータルを切り替え(Global処理）。 【季節イベント】秋ワールド特集(奥のポスター）。USEでポータルが出現。 【イベント】HELLO WORLD Cafe BAR『ハロカフェバー』毎週金曜日 22˸00~ Publicインスタンスで開催中(休止中） 【更新】毎週パネルの1列更新(現在更新休止中）",
 					"ReleaseStatus": "public",
-					"Platform": {
+					"Platform": 
+						{
 						"PC": true,
 						"Android": true
 					}
@@ -126,7 +135,8 @@
 					"Capacity": 32,
 					"Description": "2024/12/22更新 WorldCount PC˸700 Quest˸500 左のPCワールドは景観の良いワールドを、 右のQuestワールドは様々なジャンルのを設置 サムネ画像をUSEする事でポータルが出現します",
 					"ReleaseStatus": "public",
-					"Platform": {
+					"Platform": 
+						{
 						"PC": true,
 						"Android": true
 					}
@@ -138,7 +148,8 @@
 					"Capacity": 80,
 					"Description": "The hub features VRMVs‚ Animations and Music Visualizers․ このワールドはパーティクルライブワールドを巡るグループがまとめたデータを基に作成されました。データ収集、探索に感謝。Last Update˸ 04/01/2025",
 					"ReleaseStatus": "public",
-					"Platform": {
+					"Platform": 
+						{
 						"PC": true,
 						"Android": true
 					}
@@ -150,7 +161,8 @@
 					"Capacity": 64,
 					"Description": "ワールドのお気に入り整理の為のホラワポータルワールド 動画や睡眠用ベッドもあるよ",
 					"ReleaseStatus": "public",
-					"Platform": {
+					"Platform": 
+						{
 						"PC": true,
 						"Android": true
 					}
@@ -162,7 +174,8 @@
 					"Capacity": 64,
 					"Description": "3月10日アップデート/ 日本語での解説があるホラワポータルワールドです。現在255個ほど掲載しています。いいホラワを見つけ次第順次追加予定。",
 					"ReleaseStatus": "public",
-					"Platform": {
+					"Platform": 
+						{
 						"PC": true,
 						"Android": true
 					}
@@ -174,7 +187,8 @@
 					"Capacity": 80,
 					"Description": "半数は実在、半数は虚構のワールドのポータル集です。説明書きを読んで虚構と実在を見極めてください。虚構のワールドが実在したとき、虚構のワールドを実在させたときはご一報ください。ネタバレ、撮影、動画撮影OK。",
 					"ReleaseStatus": "public",
-					"Platform": {
+					"Platform": 
+						{
 						"PC": true,
 						"Android": true
 					}
@@ -192,7 +206,8 @@
 					"Capacity": 50,
 					"Description": "OneRoom -F-から重いギミックを外したタイプのFです。VR睡眠用や雑談、動画視聴、ホームワールドに。11/4 ライト関係の動作を修正",
 					"ReleaseStatus": "public",
-					"Platform": {
+					"Platform": 
+						{
 						"PC": true,
 						"Android": true
 					}
@@ -204,7 +219,8 @@
 					"Capacity": 50,
 					"Description": "VR睡眠用や雑談、動画視聴、ホームワールドに。11/4 細かい更新",
 					"ReleaseStatus": "public",
-					"Platform": {
+					"Platform": 
+						{
 						"PC": true,
 						"Android": true
 					}
@@ -216,7 +232,8 @@
 					"Capacity": 20,
 					"Description": "VR睡眠用や雑談、動画視聴、ホームワールドに",
 					"ReleaseStatus": "public",
-					"Platform": {
+					"Platform": 
+						{
 						"PC": true,
 						"Android": true
 					}
@@ -228,7 +245,8 @@
 					"Capacity": 50,
 					"Description": "VR睡眠用や雑談、動画視聴、ホームワールドに。",
 					"ReleaseStatus": "public",
-					"Platform": {
+					"Platform": 
+						{
 						"PC": true,
 						"Android": true
 					}
@@ -240,7 +258,8 @@
 					"Capacity": 24,
 					"Description": "VR睡眠用や雑談、動画視聴、ホームワールドに。7/27 iwaSyncをv3․6․6に更新",
 					"ReleaseStatus": "public",
-					"Platform": {
+					"Platform": 
+						{
 						"PC": true,
 						"Android": true
 					}
@@ -252,7 +271,8 @@
 					"Capacity": 40,
 					"Description": "VR睡眠用や雑談、動画視聴、ホームワールドに。7/27 iwaSyncをv3․6․6に更新",
 					"ReleaseStatus": "public",
-					"Platform": {
+					"Platform": 
+						{
 						"PC": true,
 						"Android": true
 					}
@@ -264,7 +284,8 @@
 					"Capacity": 40,
 					"Description": "OneRoomの過去のバージョンです。VR睡眠用や雑談、動画視聴、ホームワールドに。",
 					"ReleaseStatus": "public",
-					"Platform": {
+					"Platform": 
+						{
 						"PC": true,
 						"Android": true
 					}
@@ -276,7 +297,8 @@
 					"Capacity": 44,
 					"Description": "OneRoomの過去のバージョンです。VR睡眠用や雑談、動画視聴、ホームワールドに。",
 					"ReleaseStatus": "public",
-					"Platform": {
+					"Platform": 
+						{
 						"PC": true,
 						"Android": true
 					}
@@ -288,7 +310,8 @@
 					"Capacity": 50,
 					"Description": "VR睡眠用や雑談、動画視聴、ホームワールドに。7/21 Update：PC版、Quest版をVCCへ移行",
 					"ReleaseStatus": "public",
-					"Platform": {
+					"Platform": 
+						{
 						"PC": true,
 						"Android": true
 					}
@@ -300,7 +323,8 @@
 					"Capacity": 50,
 					"Description": "VR睡眠用や雑談、動画視聴、ホームワールドに。04/10 Update：PC版、Quest版をVCCへ移行",
 					"ReleaseStatus": "public",
-					"Platform": {
+					"Platform": 
+						{
 						"PC": true,
 						"Android": true
 					}
@@ -312,7 +336,8 @@
 					"Capacity": 50,
 					"Description": "VR睡眠用や雑談、動画視聴、ホームワールドに。",
 					"ReleaseStatus": "public",
-					"Platform": {
+					"Platform": 
+						{
 						"PC": true,
 						"Android": true
 					}
@@ -324,7 +349,8 @@
 					"Capacity": 20,
 					"Description": "VR睡眠、動画視聴に",
 					"ReleaseStatus": "public",
-					"Platform": {
+					"Platform": 
+						{
 						"PC": true,
 						"Android": true
 					}
@@ -336,7 +362,8 @@
 					"Capacity": 30,
 					"Description": "キロバイトで構成された仮想の海辺。極限まで削られた容量の中に、必要なものは全て揃っています。",
 					"ReleaseStatus": "public",
-					"Platform": {
+					"Platform": 
+						{
 						"PC": true,
 						"Android": true
 					}
@@ -348,7 +375,8 @@
 					"Capacity": 16,
 					"Description": "キロバイトで構成された仮想の窓辺。極限まで削られた容量の中に、必要なものは全て揃っています。",
 					"ReleaseStatus": "public",
-					"Platform": {
+					"Platform": 
+						{
 						"PC": true,
 						"Android": true
 					}
@@ -360,7 +388,8 @@
 					"Capacity": 7,
 					"Description": "祖父母の家をイメージしてフルスクラッチで制作したワールドです。(ギミックを除く） 何かが起こりましたら、ご報告ください。",
 					"ReleaseStatus": "public",
-					"Platform": {
+					"Platform": 
+						{
 						"PC": true,
 						"Android": true
 					}
@@ -372,7 +401,8 @@
 					"Capacity": 10,
 					"Description": "親戚の家の仏間をイメージしたホームワールドです。もしも何かが起こりましたら、ご報告ください。",
 					"ReleaseStatus": "public",
-					"Platform": {
+					"Platform": 
+						{
 						"PC": true,
 						"Android": true
 					}
@@ -384,7 +414,8 @@
 					"Capacity": 4,
 					"Description": "こわれた磁石を 砂浜でひろっているだけさ",
 					"ReleaseStatus": "public",
-					"Platform": {
+					"Platform": 
+						{
 						"PC": true,
 						"Android": true
 					}
@@ -396,7 +427,8 @@
 					"Capacity": 4,
 					"Description": "夜の気配を感じながら",
 					"ReleaseStatus": "public",
-					"Platform": {
+					"Platform": 
+						{
 						"PC": true,
 						"Android": false
 					}
@@ -408,7 +440,8 @@
 					"Capacity": 4,
 					"Description": "振動を感じながら少し眠る",
 					"ReleaseStatus": "public",
-					"Platform": {
+					"Platform": 
+						{
 						"PC": true,
 						"Android": false
 					}
@@ -420,7 +453,8 @@
 					"Capacity": 32,
 					"Description": "不明",
 					"ReleaseStatus": "public",
-					"Platform": {
+					"Platform": 
+						{
 						"PC": true,
 						"Android": true
 					}
@@ -432,7 +466,8 @@
 					"Capacity": 32,
 					"Description": "不明",
 					"ReleaseStatus": "public",
-					"Platform": {
+					"Platform": 
+						{
 						"PC": true,
 						"Android": true
 					}
@@ -444,7 +479,8 @@
 					"Capacity": 2,
 					"Description": "ここは2人だけが知る秘密基地",
 					"ReleaseStatus": "public",
-					"Platform": {
+					"Platform": 
+						{
 						"PC": true,
 						"Android": true
 					}
@@ -456,7 +492,8 @@
 					"Capacity": 25,
 					"Description": "アングラな雰囲気の隠れ家です。シーシャ‚コーヒーメーカー‚AudioLink等完備",
 					"ReleaseStatus": "public",
-					"Platform": {
+					"Platform": 
+						{
 						"PC": true,
 						"Android": true
 					}
@@ -468,7 +505,8 @@
 					"Capacity": 14,
 					"Description": "Boat Inn",
 					"ReleaseStatus": "public",
-					"Platform": {
+					"Platform": 
+						{
 						"PC": true,
 						"Android": true
 					}
@@ -480,7 +518,8 @@
 					"Capacity": 32,
 					"Description": "BookCafe【蒼穹の書庫を閲覧許されし喫茶店】 青空文庫置いてます読書や朗読会にもお使いください",
 					"ReleaseStatus": "public",
-					"Platform": {
+					"Platform": 
+						{
 						"PC": true,
 						"Android": true
 					}
@@ -492,7 +531,8 @@
 					"Capacity": 20,
 					"Description": "自分好みにカスタマイズしてゆったりできるプライベートな空間です。 BOOTH Room˸ a new‚ cozy space for you to customize and relaxǃ",
 					"ReleaseStatus": "public",
-					"Platform": {
+					"Platform": 
+						{
 						"PC": true,
 						"Android": true
 					}
@@ -504,7 +544,8 @@
 					"Capacity": 32,
 					"Description": "Brooklynのサンプルワールドです。 購入は作者のプロフィールにあるBOOTHリンクからお願いします。 ミラーや動画プレイヤー、ペンは商品に付属しません。",
 					"ReleaseStatus": "public",
-					"Platform": {
+					"Platform": 
+						{
 						"PC": true,
 						"Android": true
 					}
@@ -516,7 +557,8 @@
 					"Capacity": 32,
 					"Description": "しゃぼん玉ぷかぷか、プールばしゃばしゃ。QvPen、動画プレイヤー、たばこギミックあります。",
 					"ReleaseStatus": "public",
-					"Platform": {
+					"Platform": 
+						{
 						"PC": true,
 						"Android": true
 					}
@@ -528,7 +570,8 @@
 					"Capacity": 20,
 					"Description": "住宅街の小さな喫茶店です。ごゆっくりどうぞ。 喫煙可 制作記録https˸//n101427․fanbox․cc/posts/6532812 使用アセットリストhttps˸//n101427․fanbox․cc/posts/6948346",
 					"ReleaseStatus": "public",
-					"Platform": {
+					"Platform": 
+						{
 						"PC": true,
 						"Android": true
 					}
@@ -540,7 +583,8 @@
 					"Capacity": 16,
 					"Description": "宇宙クラゲがいるカプセルホテル・V睡などにどうぞ。睡眠時はカーテンを閉めましょう。",
 					"ReleaseStatus": "public",
-					"Platform": {
+					"Platform": 
+						{
 						"PC": true,
 						"Android": true
 					}
@@ -552,7 +596,8 @@
 					"Capacity": 40,
 					"Description": "Celestiaǃ A Faraway Cabinet․․․ Chill with your friends in a cozy spaceship 'far away' from civilizationǃ Very pwetty cozy zones‚ a video player with a lot of presets and YOUTUBE SEARCHǃ Night mode‚ games‚ collars‚ super‚ SUPER pretty scenes‚ full spaceship control etcǃ This world is available for purchase at zelfine․gumroad․com",
 					"ReleaseStatus": "public",
-					"Platform": {
+					"Platform": 
+						{
 						"PC": true,
 						"Android": true
 					}
@@ -564,7 +609,8 @@
 					"Capacity": 20,
 					"Description": "寝られる自宅が欲しくて作りました。ゆったりとした時間をお過ごしください！https˸//www․khaimmusic․com/ https˸//pocket-se․info/",
 					"ReleaseStatus": "public",
-					"Platform": {
+					"Platform": 
+						{
 						"PC": true,
 						"Android": true
 					}
@@ -576,7 +622,8 @@
 					"Capacity": 64,
 					"Description": "A cozy space on a rainy night surrounded by water․ Fire‚ pens‚ 8 ball‚ TV‚ games‚ art canvas‚ bathtub‚ asmr toys‚ bed with mirrors․ Make it home․ (updated 8/22/2024）",
 					"ReleaseStatus": "public",
-					"Platform": {
+					"Platform": 
+						{
 						"PC": true,
 						"Android": true
 					}
@@ -588,7 +635,8 @@
 					"Capacity": 40,
 					"Description": "雨音と共に時を忘れる、静かな山小屋です￤QvPen更新 ［2025-01-08］￤Rain sound by OtoLogic(CC BY 4․0）￤Raindrop Shader˸ https˸//booth․pm/ja/items/3707284",
 					"ReleaseStatus": "public",
-					"Platform": {
+					"Platform": 
+						{
 						"PC": true,
 						"Android": true
 					}
@@ -600,7 +648,8 @@
 					"Capacity": 20,
 					"Description": "world by ozen city night ｜ subscribe my Patreon or Fanbox to unlock vipzone and my private worldǃ",
 					"ReleaseStatus": "public",
-					"Platform": {
+					"Platform": 
+						{
 						"PC": true,
 						"Android": true
 					}
@@ -612,7 +661,8 @@
 					"Capacity": 20,
 					"Description": "world by ozen city rain v1․2․6 updated new night skybox ｜ subscribe my Patreon or Fanbox to unlock vipzone and my private worldǃ",
 					"ReleaseStatus": "public",
-					"Platform": {
+					"Platform": 
+						{
 						"PC": true,
 						"Android": true
 					}
@@ -624,7 +674,8 @@
 					"Capacity": 24,
 					"Description": "A winter cabin in the snowy mountains with a video player‚ pens and mirrors․ Updated 11/28/22",
 					"ReleaseStatus": "public",
-					"Platform": {
+					"Platform": 
+						{
 						"PC": true,
 						"Android": true
 					}
@@ -636,7 +687,8 @@
 					"Capacity": 16,
 					"Description": "草原の中心にひっそりと佇む、明るい日差しと風を感じながらお昼寝や音楽を楽しむ隠れ家です。 Hidden in the heart of the meadow‚ it is a retreat where you can enjoy naps and music while feeling the bright sunlight and breeze․",
 					"ReleaseStatus": "public",
-					"Platform": {
+					"Platform": 
+						{
 						"PC": true,
 						"Android": true
 					}
@@ -648,7 +700,8 @@
 					"Capacity": 32,
 					"Description": "忘れ去られた島で一人静かに暮らす少女の物語。迎えの来ない彼女を慰めるかのように、今日もどこからか本が舞い降りてくる。",
 					"ReleaseStatus": "public",
-					"Platform": {
+					"Platform": 
+						{
 						"PC": true,
 						"Android": true
 					}
@@ -660,7 +713,8 @@
 					"Capacity": 32,
 					"Description": "噂を聞きつけ訪れた旅人を冷たい静寂が出迎える。学者一家が遺した文献の山に潜む幼い影は、意外な足音に戸惑いながらも、胸を弾ませ訪問者を招き入れる。",
 					"ReleaseStatus": "public",
-					"Platform": {
+					"Platform": 
+						{
 						"PC": true,
 						"Android": true
 					}
@@ -672,7 +726,8 @@
 					"Capacity": 64,
 					"Description": "雲海の上を進む飛行船のワールドです。デフォルトの天候は毎日変化します。快適な空の旅をお楽しみください。",
 					"ReleaseStatus": "public",
-					"Platform": {
+					"Platform": 
+						{
 						"PC": true,
 						"Android": true
 					}
@@ -684,7 +739,8 @@
 					"Capacity": 20,
 					"Description": "Fog night",
 					"ReleaseStatus": "public",
-					"Platform": {
+					"Platform": 
+						{
 						"PC": true,
 						"Android": true
 					}
@@ -696,7 +752,8 @@
 					"Capacity": 2,
 					"Description": "2人きりでゆったりくつろげるワールドです",
 					"ReleaseStatus": "public",
-					"Platform": {
+					"Platform": 
+						{
 						"PC": true,
 						"Android": true
 					}
@@ -708,7 +765,8 @@
 					"Capacity": 40,
 					"Description": "clear glass / tile / plant / bed / alcohol / coffee",
 					"ReleaseStatus": "public",
-					"Platform": {
+					"Platform": 
+						{
 						"PC": true,
 						"Android": true
 					}
@@ -720,7 +778,8 @@
 					"Capacity": 33,
 					"Description": "不明",
 					"ReleaseStatus": "public",
-					"Platform": {
+					"Platform": 
+						{
 						"PC": true,
 						"Android": true
 					}
@@ -732,7 +791,8 @@
 					"Capacity": 40,
 					"Description": "You can make Coffee and other beverages․",
 					"ReleaseStatus": "public",
-					"Platform": {
+					"Platform": 
+						{
 						"PC": true,
 						"Android": true
 					}
@@ -744,7 +804,8 @@
 					"Capacity": 20,
 					"Description": "［Android supported］日本の田舎、雨の日におうちでごろごろしましょう。 Let's lie around at home on a rainy day in the Japanese countryside",
 					"ReleaseStatus": "public",
-					"Platform": {
+					"Platform": 
+						{
 						"PC": true,
 						"Android": true
 					}
@@ -756,7 +817,8 @@
 					"Capacity": 80,
 					"Description": "2025/03/07大型アップデート。湖のそばに建つ、静かで落ち着いた小さな建物のチルワールドです。ベッド、ペン、vizvidプレイヤー完備。「かつてここには小さな神殿があったといいます。」 It is a small villa near the lake․ Bed‚ QV pen‚ video player․",
 					"ReleaseStatus": "public",
-					"Platform": {
+					"Platform": 
+						{
 						"PC": true,
 						"Android": true
 					}
@@ -768,7 +830,8 @@
 					"Capacity": 50,
 					"Description": "＂Virtual Reality' それは自分らしく存在できる世界。 そして個性が交差する世界。 でも時にはそんなデジタルの喧騒から抜け出して 夜風に身を任せませんか。 溢さないように気をつけてくださいね。 それでは、月夜が照らす暗がりでお待ちしております",
 					"ReleaseStatus": "public",
-					"Platform": {
+					"Platform": 
+						{
 						"PC": true,
 						"Android": true
 					}
@@ -780,7 +843,8 @@
 					"Capacity": 20,
 					"Description": "お喋りしたり動画鑑賞したり、ゆっくり寝ることもできるワールドです。 寝室はナイトモードあり。ボイスが遮断されます。 QvPen、マジックハンド、食べ物と飲み物など色々。 2025/1/18：ミラーをHQLQ切り替え型に変更、Sit判定オンオフ追加、プレイリスト追加、できる範囲での不具合修正 2025/1/21：QVpenが動かないのでモデル差し替え 2025/3/4：耳かき一種、Imagepad追加",
 					"ReleaseStatus": "public",
-					"Platform": {
+					"Platform": 
+						{
 						"PC": true,
 						"Android": true
 					}
@@ -792,7 +856,8 @@
 					"Capacity": 15,
 					"Description": "やすらぎの一夜をあなたに",
 					"ReleaseStatus": "public",
-					"Platform": {
+					"Platform": 
+						{
 						"PC": true,
 						"Android": true
 					}
@@ -804,7 +869,8 @@
 					"Capacity": 20,
 					"Description": "VR睡眠や少人数での雑談などにどうぞ ［2025/1/23 Woter cooler Added․］",
 					"ReleaseStatus": "public",
-					"Platform": {
+					"Platform": 
+						{
 						"PC": true,
 						"Android": true
 					}
@@ -816,7 +882,8 @@
 					"Capacity": 32,
 					"Description": "真夜中の雨 chill room",
 					"ReleaseStatus": "public",
-					"Platform": {
+					"Platform": 
+						{
 						"PC": true,
 						"Android": true
 					}
@@ -828,7 +895,8 @@
 					"Capacity": 6,
 					"Description": "少人数での作業／睡眠／くつろぎに。タグマーカー、ハンドメニュー、YamaPlayer、ベッドミラー、ナイトモード、QvPen、imagePad、UMoffPen、寝室の音声棲み分け完備。【2024/07/29 細かい見落としの修正】",
 					"ReleaseStatus": "public",
-					"Platform": {
+					"Platform": 
+						{
 						"PC": true,
 						"Android": true
 					}
@@ -840,7 +908,8 @@
 					"Capacity": 24,
 					"Description": "Simple hotel room for sleeping",
 					"ReleaseStatus": "public",
-					"Platform": {
+					"Platform": 
+						{
 						"PC": true,
 						"Android": true
 					}
@@ -852,7 +921,8 @@
 					"Capacity": 6,
 					"Description": "Last updated˸ 2024/09/26(アバターの表情が一部暗くなる問題を修正） QVpen‚ Bed‚ Light Adjustment‚ User Join List",
 					"ReleaseStatus": "public",
-					"Platform": {
+					"Platform": 
+						{
 						"PC": true,
 						"Android": true
 					}
@@ -864,7 +934,8 @@
 					"Capacity": 32,
 					"Description": "World available on Gumroad",
 					"ReleaseStatus": "public",
-					"Platform": {
+					"Platform": 
+						{
 						"PC": true,
 						"Android": true
 					}
@@ -876,7 +947,8 @@
 					"Capacity": 16,
 					"Description": "Relix by xpmmm ＆ 鯰田NMZ ｜ The tablet can be brought up by pressing the left trigger twice․ ｜ 左トリガー2回でMenuタブレット‚ カプセルベッドは防音です․ ｜ Update Nov 29 2024˸ Add 「MonitorAdjuster」「HUD System」on HoloTablet",
 					"ReleaseStatus": "public",
-					"Platform": {
+					"Platform": 
+						{
 						"PC": true,
 						"Android": true
 					}
@@ -888,7 +960,8 @@
 					"Capacity": 8,
 					"Description": "VR睡眠や少人数での雑談などにどうぞ［2025/3/23 Minor fixed․］",
 					"ReleaseStatus": "public",
-					"Platform": {
+					"Platform": 
+						{
 						"PC": true,
 						"Android": true
 					}
@@ -900,7 +973,8 @@
 					"Capacity": 32,
 					"Description": "SafeHouseは、騒がしい空間から逃げることのできる「避難所」を目的としたWorldです。 出先から帰ってきてゆっくりできる、そんなWorldとなっています。 「ワールドサイズ、動作共に軽量(Questでも重くないこと）」、「VRChatに閉じ込められても快適に過ごせる家」を目標として制作しております。 SafeHouse is a world designed to be a ＂Refuge＂ where people can escape from noisy spaces․ It is a world where you can relax after returning home from a trip․ My goal is to create a world that is lightweight in terms of both size and operation (not too heavy even in Quest）‚ and a house where you can spend a comfortable time even if you are trapped in a VRChat․",
 					"ReleaseStatus": "public",
-					"Platform": {
+					"Platform": 
+						{
 						"PC": true,
 						"Android": true
 					}
@@ -912,7 +986,8 @@
 					"Capacity": 80,
 					"Description": "Japan Street にある旅館の客室 Late join 同期対応カメラ付き",
 					"ReleaseStatus": "public",
-					"Platform": {
+					"Platform": 
+						{
 						"PC": true,
 						"Android": true
 					}
@@ -924,7 +999,8 @@
 					"Capacity": 8,
 					"Description": "ぬくぬく QVpen/Mirror/Video Player ≺last update˸1/10≻ 容量削減はサボりました。",
 					"ReleaseStatus": "public",
-					"Platform": {
+					"Platform": 
+						{
 						"PC": true,
 						"Android": true
 					}
@@ -936,7 +1012,8 @@
 					"Capacity": 40,
 					"Description": "Inspired by TRAIN SUITE 四季島(Toransuito Shikishima）‚On this journey through the snowy country aboard the train‚ you can raise a toast with friends in the cozy cabin‚ all while enjoying a superior viewing experience with the modern Yamaplayer․ If you feel tired‚ youre welcome to rest in the rear carriage and recharge for the next part of your adventure․ The map will be regularly updated with new content․ ver 1․3․2",
 					"ReleaseStatus": "public",
-					"Platform": {
+					"Platform": 
+						{
 						"PC": true,
 						"Android": true
 					}
@@ -948,7 +1025,8 @@
 					"Capacity": 80,
 					"Description": "just a small world packed with stuff to do in a comfy atmosphere there is a video player there is beer pong there is a pool table as well as never have i ever out side and a few drink games in doors as well and if you find it a privet room to get away from the crowds․ i hope you will find it nice to relax in and have a good day or night there kind regards sovren․",
 					"ReleaseStatus": "public",
-					"Platform": {
+					"Platform": 
+						{
 						"PC": true,
 						"Android": true
 					}
@@ -960,7 +1038,8 @@
 					"Capacity": 50,
 					"Description": "Updated 7-10-2024",
 					"ReleaseStatus": "public",
-					"Platform": {
+					"Platform": 
+						{
 						"PC": true,
 						"Android": true
 					}
@@ -972,7 +1051,8 @@
 					"Capacity": 2,
 					"Description": "【Quest対応・V睡ワールド】一人でのんびりして、ふらっと訪れた人と１：１で話したいときに。【Recommended for sleeping․】 ｜寝袋｜QVペン｜ミラー｜輝度調整｜ナイトモード｜imagePad｜iwasync3｜LoFi_オールディーズラジオ｜＊多人数と接することに疲れた人は、ぜひどうぞ。＊",
 					"ReleaseStatus": "public",
-					"Platform": {
+					"Platform": 
+						{
 						"PC": true,
 						"Android": true
 					}
@@ -984,7 +1064,8 @@
 					"Capacity": 80,
 					"Description": "Fixed mushroom avatar light contribution",
 					"ReleaseStatus": "public",
-					"Platform": {
+					"Platform": 
+						{
 						"PC": true,
 						"Android": true
 					}
@@ -996,7 +1077,8 @@
 					"Capacity": 60,
 					"Description": "［Quest対応・V睡ホームワールド］ VRCでの一日を「ここから」始める方がいればいいな、という想いから名付けました。［Recommended for sleeping․］ ｜ベッドコライダー｜音声減衰システム｜ナイトモード｜QVペン｜全面ミラー｜ハンドメニュー｜imagePad｜iwasync3｜",
 					"ReleaseStatus": "public",
-					"Platform": {
+					"Platform": 
+						{
 						"PC": true,
 						"Android": true
 					}
@@ -1008,7 +1090,8 @@
 					"Capacity": 32,
 					"Description": "改変元ワールド ˸ Starry Nights - SamVRC",
 					"ReleaseStatus": "public",
-					"Platform": {
+					"Platform": 
+						{
 						"PC": true,
 						"Android": true
 					}
@@ -1020,7 +1103,8 @@
 					"Capacity": 40,
 					"Description": "くつろぎ空間に必要なものをひと通り取り揃えたコンサバトリーです。負荷は増しますが、Directional LightをONにすると日差しが差し込んでとても綺麗です。(2025/03/28 SDK3․7․5に引き上げ、VRCHandmenu・YamaPlayer・QvPenを現行最新版に。YamaPlayerのリストの動画を再生できなかった不具合を修正）",
 					"ReleaseStatus": "public",
-					"Platform": {
+					"Platform": 
+						{
 						"PC": true,
 						"Android": true
 					}
@@ -1032,7 +1116,8 @@
 					"Capacity": 32,
 					"Description": "魚を中心とした海洋生物を展示している水族館ワールドです。(現在展示数70種）long-potatoさんより公開されている続編ワールド「Sushi Aquarium 淡水棟」では世界各地の淡水魚を展示しております。当ワールドの最後にポータルを設置しておりますので続けてご鑑賞ください。ワールド及び魚類のモデルはlong-potatoさんと共同で制作されました。ごゆっくりお楽しみください。",
 					"ReleaseStatus": "public",
-					"Platform": {
+					"Platform": 
+						{
 						"PC": true,
 						"Android": true
 					}
@@ -1044,7 +1129,8 @@
 					"Capacity": 16,
 					"Description": "ニキシー管時計のある旅館のお部屋です。温泉、iwaSync(AudioLink）あります。",
 					"ReleaseStatus": "public",
-					"Platform": {
+					"Platform": 
+						{
 						"PC": true,
 						"Android": true
 					}
@@ -1056,7 +1142,8 @@
 					"Capacity": 24,
 					"Description": "色んな人が普段使いしやすいワールドを目指して作りました！オリジナルで使いやすい動画タブレット、拡張メニューに30以上のゲーム、料理ギミック、アバター展示もあります。動作負荷も非常に軽いです。(更新日˸25/1/27）",
 					"ReleaseStatus": "public",
-					"Platform": {
+					"Platform": 
+						{
 						"PC": true,
 						"Android": true
 					}
@@ -1068,7 +1155,8 @@
 					"Capacity": 5,
 					"Description": "untitled",
 					"ReleaseStatus": "public",
-					"Platform": {
+					"Platform": 
+						{
 						"PC": true,
 						"Android": true
 					}
@@ -1080,7 +1168,8 @@
 					"Capacity": 32,
 					"Description": "for real",
 					"ReleaseStatus": "public",
-					"Platform": {
+					"Platform": 
+						{
 						"PC": true,
 						"Android": true
 					}
@@ -1092,7 +1181,8 @@
 					"Capacity": 80,
 					"Description": "ちりんちりん～ ｜ BGM ˸ 黒塗りの夜景 by ISAo",
 					"ReleaseStatus": "public",
-					"Platform": {
+					"Platform": 
+						{
 						"PC": true,
 						"Android": true
 					}
@@ -1104,7 +1194,8 @@
 					"Capacity": 32,
 					"Description": "It can be used for sleeping and talking․ This world is based on ＂Room 03 Quiet＂ created by Room04‚ with some modifications by Hisago․ 2024/10/19 ･Fix - Problem with some objects floating / 不具合があればTwitter(＠hisamogo）まで",
 					"ReleaseStatus": "public",
-					"Platform": {
+					"Platform": 
+						{
 						"PC": true,
 						"Android": true
 					}
@@ -1116,7 +1207,8 @@
 					"Capacity": 12,
 					"Description": "深海の底で眠りにつく、そんなコンセプトで作成した小人数向けのワールドになります。 動画プレイヤー、mirror付きのベッドあります。V睡したい時などにご利用ください。",
 					"ReleaseStatus": "public",
-					"Platform": {
+					"Platform": 
+						{
 						"PC": true,
 						"Android": true
 					}
@@ -1128,7 +1220,8 @@
 					"Capacity": 6,
 					"Description": "環境音にこだわった小さめの和室です。 ベッド横のスイッチでナイトモードに変更できます。 微調整を除き最後の更新となります。 This is a small Japanese-style room with a focus on ambient sounds․ You can switch to night mode using the switch next to the bed․ This will be the final update except for minor adjustments․",
 					"ReleaseStatus": "public",
-					"Platform": {
+					"Platform": 
+						{
 						"PC": true,
 						"Android": true
 					}
@@ -1140,7 +1233,8 @@
 					"Capacity": 7,
 					"Description": "祖父母の家をイメージしてフルスクラッチで制作したワールドです。(ギミックを除く） 何かが起こりましたら、ご報告ください。",
 					"ReleaseStatus": "public",
-					"Platform": {
+					"Platform": 
+						{
 						"PC": true,
 						"Android": true
 					}
@@ -1152,7 +1246,8 @@
 					"Capacity": 64,
 					"Description": "お昼寝から覚めたら、涼しい木陰の庭先に降りて伸びをひとつ・・・アトリエの白壁やツタの格子、ガラス天井や水面を透して差し込む光をぬけて、居心地のいい庭をみつけにゆきましょう．Comfortable small gardens with various expressions․ This world includes bedrooms‚ glasshouses‚ an atelier‚ and an aquarium․",
 					"ReleaseStatus": "public",
-					"Platform": {
+					"Platform": 
+						{
 						"PC": true,
 						"Android": true
 					}
@@ -1164,7 +1259,8 @@
 					"Capacity": 40,
 					"Description": "カフェセット、リバーシ、ポーカー、ビリヤード、など遊べるギミックあります。",
 					"ReleaseStatus": "public",
-					"Platform": {
+					"Platform": 
+						{
 						"PC": true,
 						"Android": true
 					}
@@ -1176,7 +1272,8 @@
 					"Capacity": 32,
 					"Description": "最高の風呂体験とチルワールド。左手トリガー2回押しでメニュー。",
 					"ReleaseStatus": "public",
-					"Platform": {
+					"Platform": 
+						{
 						"PC": true,
 						"Android": true
 					}
@@ -1188,7 +1285,8 @@
 					"Capacity": 30,
 					"Description": "キロバイトで構成された仮想の海辺。極限まで削られた容量の中に、必要なものは全て揃っています。",
 					"ReleaseStatus": "public",
-					"Platform": {
+					"Platform": 
+						{
 						"PC": true,
 						"Android": true
 					}
@@ -1200,7 +1298,8 @@
 					"Capacity": 2,
 					"Description": "『キミの夜をちょうだい』ふたりきりで過ごせる定員2人のホームワールドです。対戦可能なレトロゲーム機があります。Pen・Mirror・Nightmode・VideoPlayer・Imagepad・Alarm実装済み。",
 					"ReleaseStatus": "public",
-					"Platform": {
+					"Platform": 
+						{
 						"PC": true,
 						"Android": true
 					}
@@ -1212,7 +1311,8 @@
 					"Capacity": 32,
 					"Description": "寝台列車に乗って、旅しながら、V睡できるワールドつくってみたよǃ 列車に揺られながら、気持ちよく寝れるよ！ 車窓を雨模様にすることができるようになったよ！ Persistence対応",
 					"ReleaseStatus": "public",
-					"Platform": {
+					"Platform": 
+						{
 						"PC": true,
 						"Android": true
 					}
@@ -1224,7 +1324,8 @@
 					"Capacity": 50,
 					"Description": "そのお店は、「すべての道の果て」にあると言われています。 This peculiar café is said to be located ＂at the end of every path＂․",
 					"ReleaseStatus": "public",
-					"Platform": {
+					"Platform": 
+						{
 						"PC": true,
 						"Android": true
 					}
@@ -1236,7 +1337,8 @@
 					"Capacity": 3,
 					"Description": "最近2人しか入れないワールドが流行っています。ですが2人で寝ていると書置きに行けなかったり、来れなかったり。 なので対抗してキャパシティを3人にしました(2人で寝てる前提の話） Room with a capacity of three people․",
 					"ReleaseStatus": "public",
-					"Platform": {
+					"Platform": 
+						{
 						"PC": true,
 						"Android": true
 					}
@@ -1248,7 +1350,8 @@
 					"Capacity": 32,
 					"Description": "［Quest対応・V睡ワールド］音や光、動線やペンの色まで 「ストレスのない家」 を追求したチルいワールド。［Recommended for sleeping․］ ｜天候システム｜音声減衰システム｜ナイトモード｜V睡アラーム｜RejoinToBed｜＊設置物以外はunityのcubeで作られています＊",
 					"ReleaseStatus": "public",
-					"Platform": {
+					"Platform": 
+						{
 						"PC": true,
 						"Android": true
 					}
@@ -1260,7 +1363,8 @@
 					"Capacity": 32,
 					"Description": "ひとりさみしい時に誰かを待つ場所。 待ち合わせや睡眠などにどうぞ。 qvペン、joinログ、ビデオプレイヤーが設置されています。Quest対応です。",
 					"ReleaseStatus": "public",
-					"Platform": {
+					"Platform": 
+						{
 						"PC": true,
 						"Android": true
 					}
@@ -1272,7 +1376,8 @@
 					"Capacity": 32,
 					"Description": "プレーヤーオンリーミラーを拡張しました",
 					"ReleaseStatus": "public",
-					"Platform": {
+					"Platform": 
+						{
 						"PC": true,
 						"Android": true
 					}
@@ -1284,7 +1389,8 @@
 					"Capacity": 15,
 					"Description": "地球と月を仰ぎ見るCafe ＆ Bar「ほしぞら珈琲店」は、宇宙好きの集う憩いの場所。太陽系に思いをはせて、語り合いましょう。iwaSync‚ QvPenあります。～銀河鉄道シリーズ 3作品目。JAXA 「SLIM」月面着陸記念 ～",
 					"ReleaseStatus": "public",
-					"Platform": {
+					"Platform": 
+						{
 						"PC": true,
 						"Android": true
 					}
@@ -1296,7 +1402,8 @@
 					"Capacity": 24,
 					"Description": "12/20 リビングと寝室にリアルタイムの時計追加 リビングのミラーの距離制限を解除 可愛いと緑がテーマのギミックをたくさん詰め込んだお家だよǃ 自分好みのゆったり過ごせる家をして作成しました。",
 					"ReleaseStatus": "public",
-					"Platform": {
+					"Platform": 
+						{
 						"PC": true,
 						"Android": true
 					}
@@ -1308,7 +1415,8 @@
 					"Capacity": 48,
 					"Description": "岩盤浴のワールドってそういえばvrchatで見たことないな～～って思った二日酔いの朝でした ぜひ布団に包まってご利用ください",
 					"ReleaseStatus": "public",
-					"Platform": {
+					"Platform": 
+						{
 						"PC": true,
 						"Android": true
 					}
@@ -1320,7 +1428,8 @@
 					"Capacity": 16,
 					"Description": "暗い空の部屋です",
 					"ReleaseStatus": "public",
-					"Platform": {
+					"Platform": 
+						{
 						"PC": true,
 						"Android": true
 					}
@@ -1332,7 +1441,8 @@
 					"Capacity": 80,
 					"Description": "吊り橋が見える屋根裏部屋にて、窓に当たる雨音を聴きながら、ゆったりとした睡眠を。",
 					"ReleaseStatus": "public",
-					"Platform": {
+					"Platform": 
+						{
 						"PC": true,
 						"Android": true
 					}
@@ -1344,7 +1454,8 @@
 					"Capacity": 24,
 					"Description": "雨の音聞きながらダラダラしたり睡眠ワールドなどにお使いください。",
 					"ReleaseStatus": "public",
-					"Platform": {
+					"Platform": 
+						{
 						"PC": true,
 						"Android": true
 					}
@@ -1356,7 +1467,8 @@
 					"Capacity": 50,
 					"Description": "沖縄の昔ながらのお家です。のんびりしましょう。のんびり製作中のため随時更新予定です。 / A traditional house in Okinawa‚ Japan (WIP）",
 					"ReleaseStatus": "public",
-					"Platform": {
+					"Platform": 
+						{
 						"PC": true,
 						"Android": true
 					}
@@ -1368,7 +1480,8 @@
 					"Capacity": 50,
 					"Description": "沖縄の昔ながらのお家で夜ものんびりしましょう。随時更新予定です。 / Night at a traditional house in Okinawa‚ Japan (WIP）",
 					"ReleaseStatus": "public",
-					"Platform": {
+					"Platform": 
+						{
 						"PC": true,
 						"Android": true
 					}
@@ -1380,7 +1493,8 @@
 					"Capacity": 32,
 					"Description": "フルスクラッチ 生け花が各種スイッチ。The original material of tatami˸ Copyright (c） 2021 christinayan by Takahiro Yanai(MIT‚https˸//licenses․opensource․jp/MIT/MIT․html） a painting in the scroll is public domain․",
 					"ReleaseStatus": "public",
-					"Platform": {
+					"Platform": 
+						{
 						"PC": true,
 						"Android": true
 					}
@@ -1392,7 +1506,8 @@
 					"Capacity": 64,
 					"Description": "Minecraft風の花屋のワールドは、リラックスするのに最適で、花の香りを楽しめます。PC、Android、iOSプラットフォームに対応しています。/ The Flower Shop‚ Minecraft building made by me․ Enjoy itǃ V1․6․5",
 					"ReleaseStatus": "public",
-					"Platform": {
+					"Platform": 
+						{
 						"PC": true,
 						"Android": true
 					}
@@ -1404,7 +1519,8 @@
 					"Capacity": 20,
 					"Description": "海月と水面が揺蕩うチルワールドです。 お酒を交えてフレンドとお喋りしたり、密談椅子に腰掛けて秘密のお話が出来ます。",
 					"ReleaseStatus": "public",
-					"Platform": {
+					"Platform": 
+						{
 						"PC": true,
 						"Android": true
 					}
@@ -1416,7 +1532,8 @@
 					"Capacity": 40,
 					"Description": "月夜を眺めながら縁側でビールがのめる和風建築のワールドです。",
 					"ReleaseStatus": "public",
-					"Platform": {
+					"Platform": 
+						{
 						"PC": true,
 						"Android": true
 					}
@@ -1428,7 +1545,8 @@
 					"Capacity": 4,
 					"Description": "振動を感じながら少し眠る",
 					"ReleaseStatus": "public",
-					"Platform": {
+					"Platform": 
+						{
 						"PC": true,
 						"Android": true
 					}
@@ -1440,7 +1558,8 @@
 					"Capacity": 5,
 					"Description": "自信のない自分を棚に上げて、自分よりも弱っている相手に手を差し伸べる。自分以外のなにかを救うフリをすることで自分を納得させる",
 					"ReleaseStatus": "public",
-					"Platform": {
+					"Platform": 
+						{
 						"PC": true,
 						"Android": true
 					}
@@ -1452,7 +1571,8 @@
 					"Capacity": 32,
 					"Description": "別ワールドの反対側になるイメージで作ったワールドです。 昼夜切り替え、花火onoff、食べ物や飲み物もいろいろあります。 寝部屋としても使えると思います。",
 					"ReleaseStatus": "public",
-					"Platform": {
+					"Platform": 
+						{
 						"PC": true,
 						"Android": true
 					}
@@ -1464,7 +1584,8 @@
 					"Capacity": 16,
 					"Description": "致那些无眠的夜晚与没有梦境的回忆",
 					"ReleaseStatus": "public",
-					"Platform": {
+					"Platform": 
+						{
 						"PC": true,
 						"Android": true
 					}
@@ -1476,7 +1597,8 @@
 					"Capacity": 32,
 					"Description": "宇宙を漂うちょうどいいサイズ感のお部屋に、必要な物は揃っています。",
 					"ReleaseStatus": "public",
-					"Platform": {
+					"Platform": 
+						{
 						"PC": true,
 						"Android": true
 					}
@@ -1488,7 +1610,8 @@
 					"Capacity": 32,
 					"Description": "少し大きめのお部屋に、必要な物は揃っています。",
 					"ReleaseStatus": "public",
-					"Platform": {
+					"Platform": 
+						{
 						"PC": true,
 						"Android": true
 					}
@@ -1500,7 +1623,8 @@
 					"Capacity": 50,
 					"Description": "こちらは日本のメゾネットアパートのワールドです。たくさんの面白いものがあり、昼夜を切り替えることができます。ここで友達とパーティーを開いたり、ベッドで寝たりすることができます。楽しんでください！注意：モバイルパフォーマンスの制限により、すべての食品と一部の飾りは表示されません。/ Japanese home world with many interesting things and day-night toggle‚ you can throw a party with your friends or sleep in bed․ Have a good timeǃ Attention˸ Due to mobile performance limitations‚ food and some decorations will not be displayed․ Ver 2․1․5",
 					"ReleaseStatus": "public",
-					"Platform": {
+					"Platform": 
+						{
 						"PC": true,
 						"Android": true
 					}
@@ -1512,7 +1636,8 @@
 					"Capacity": 80,
 					"Description": "のんびりと雑談しながら年を越しましょう。神社でのお参りやおみくじ、花火も楽しめます。 和の雰囲気に包まれた美しい温泉や、大広間での雑談、リラックスできる寝部屋も完備！ 推奨人数：30人 動画プレイヤー/麻雀/ビンゴ/オセロ/温泉/寝部屋/神社/おみくじ/花火/カウントダウン お正月ならではの特別なひとときを、みんなでゆっくり楽しみましょう！",
 					"ReleaseStatus": "public",
-					"Platform": {
+					"Platform": 
+						{
 						"PC": true,
 						"Android": true
 					}
@@ -1524,7 +1649,8 @@
 					"Capacity": 32,
 					"Description": "天窓から降る雨がゆっくりと水かさを増し、穏やかに沈んでいく空間。睡眠やリラックスにどうぞ。約一時間で水位が最大になります。Rain gently falls through the skylight‚ gradually raising the water level as you peacefully sink․ Perfect for sleep and relaxation․ The water level reaches its maximum in about an hour․",
 					"ReleaseStatus": "public",
-					"Platform": {
+					"Platform": 
+						{
 						"PC": true,
 						"Android": true
 					}
@@ -1536,7 +1662,8 @@
 					"Capacity": 30,
 					"Description": "7/29 update",
 					"ReleaseStatus": "public",
-					"Platform": {
+					"Platform": 
+						{
 						"PC": true,
 						"Android": true
 					}
@@ -1548,7 +1675,8 @@
 					"Capacity": 32,
 					"Description": "作業とかまったりしたい時にお使いください。",
 					"ReleaseStatus": "public",
-					"Platform": {
+					"Platform": 
+						{
 						"PC": true,
 						"Android": true
 					}
@@ -1560,7 +1688,8 @@
 					"Capacity": 20,
 					"Description": "皆が使ってくれると嬉しいなぁと思って作りました。｜AvatarNowやHoloTablet、V睡ギミックやボードゲームなど、ホームワールドに必要なものは大体揃っています。｜",
 					"ReleaseStatus": "public",
-					"Platform": {
+					"Platform": 
+						{
 						"PC": true,
 						"Android": true
 					}
@@ -1572,7 +1701,8 @@
 					"Capacity": 32,
 					"Description": "錦秋を感じる一棟貸しの旅館です。V睡や団欒にどうぞ。",
 					"ReleaseStatus": "public",
-					"Platform": {
+					"Platform": 
+						{
 						"PC": true,
 						"Android": true
 					}
@@ -1584,7 +1714,8 @@
 					"Capacity": 15,
 					"Description": "V睡向けのクラゲを眺めるチルワールドです。",
 					"ReleaseStatus": "public",
-					"Platform": {
+					"Platform": 
+						{
 						"PC": true,
 						"Android": true
 					}
@@ -1596,7 +1727,8 @@
 					"Capacity": 24,
 					"Description": "家に帰る道がいい感じです。夏の夜の思い出みたいな花火をお楽しみください。 眠るのに良い場所です！手動で窓を開けることができます。＋リスポーンで後ろを見ると凧揚げキットがあります(プレイヤーが凧に乗ることもできます） ボトルのふたはEで開けることができます。 The way home is nice․ Enjoy fireworks like memories of summer nights․ It's a good place to sleepǃ You can open the window manually․ ＋If you look back at the respawn‚ you'll find a kite flying kit (players can also ride kites） The bottle's lid can be opened with E․",
 					"ReleaseStatus": "public",
-					"Platform": {
+					"Platform": 
+						{
 						"PC": true,
 						"Android": true
 					}
@@ -1608,7 +1740,8 @@
 					"Capacity": 48,
 					"Description": "Based on Monochrome Forest․ QVPens/VideoPlayer/Sleep System/Onsen at rooftop․ Still Updating with few assets‚ gimmicks and fixing bugs․",
 					"ReleaseStatus": "public",
-					"Platform": {
+					"Platform": 
+						{
 						"PC": true,
 						"Android": true
 					}
@@ -1620,7 +1753,8 @@
 					"Capacity": 15,
 					"Description": "BGM˸sea no -足跡",
 					"ReleaseStatus": "public",
-					"Platform": {
+					"Platform": 
+						{
 						"PC": true,
 						"Android": true
 					}
@@ -1638,7 +1772,8 @@
 					"Capacity": 32,
 					"Description": "くまたちが暮らす浮島でのんびり過ごして癒されませんか？【NPC Avatarワールド】Why not spend some relaxing time on the floating island where bears live and find healing?",
 					"ReleaseStatus": "public",
-					"Platform": {
+					"Platform": 
+						{
 						"PC": true,
 						"Android": true
 					}
@@ -1650,7 +1785,8 @@
 					"Capacity": 80,
 					"Description": "温泉と川とBBQが楽しめる！！環境音も！！！BGM˸秋風吹く庭で https˸pocket-se․infoarchives1840",
 					"ReleaseStatus": "public",
-					"Platform": {
+					"Platform": 
+						{
 						"PC": true,
 						"Android": true
 					}
@@ -1662,7 +1798,8 @@
 					"Capacity": 50,
 					"Description": "ここには温かいコーヒーと膨大な本があり、語り待ち、耳を傾けられる物語がある。潮が最後の峰を覆い尽くすとき、私たちが星々の下で永遠に温もりのある安住の地を得られますように。/ 此处有温热的咖啡与浩繁的书籍，还有等待着讲述与倾听的故事。当潮水漫过最后一座山峰时，愿我们能在星辰之下，获得永恒温馨的归宿。Ver․1․4․5",
 					"ReleaseStatus": "public",
-					"Platform": {
+					"Platform": 
+						{
 						"PC": true,
 						"Android": true
 					}
@@ -1674,7 +1811,8 @@
 					"Capacity": 32,
 					"Description": "楽しくドット絵が描けるギミックがあるクラシックな和風ワールドです。窓の外を流れる夕暮れの川を見ながらゆっくり過ごしてください。 It is a classic Japanese-style world with gimmicks for fun dot painting․ Please enjoy your stay watching the evening river flowing outside the window․ 經典的日本和風建築，裏面有能繪製像素畫的新機製。和朋友們看著窗外的黃昏時分的河流度過愉快的時光吧。",
 					"ReleaseStatus": "public",
-					"Platform": {
+					"Platform": 
+						{
 						"PC": true,
 						"Android": true
 					}
@@ -1692,7 +1830,8 @@
 					"Capacity": 32,
 					"Description": "「明日はきっと晴れるから․․。」 お天気雨の降る夏の夕暮れ。地中海を臨む港町。おや、クジラが迎えに来てくれたね？猫たちも手を振っているよ。さあ、進みましょう。頬にぬくもりを感じながら。",
 					"ReleaseStatus": "public",
-					"Platform": {
+					"Platform": 
+						{
 						"PC": true,
 						"Android": true
 					}
@@ -1704,7 +1843,8 @@
 					"Capacity": 32,
 					"Description": "(Credits to Mason for the world icon）Back from my break",
 					"ReleaseStatus": "public",
-					"Platform": {
+					"Platform": 
+						{
 						"PC": true,
 						"Android": true
 					}
@@ -1716,7 +1856,8 @@
 					"Capacity": 50,
 					"Description": "This world is a legitimate sequel by the author of the first ＂Japan Shrine＂ published in 2018․ このワールドは2018年に公開した最初の『Japan Shrine』の作者による正統な続編です。The mobile(Quest） version will be the 2018 Japan Shrine․モバイル(Quest）版は2018年のJapan Shrineになります。",
 					"ReleaseStatus": "public",
-					"Platform": {
+					"Platform": 
+						{
 						"PC": true,
 						"Android": true
 					}
@@ -1728,7 +1869,8 @@
 					"Capacity": 80,
 					"Description": "［重要］VRC側のバグで偶に＂0MB＂になって入れなくなる場合があります、再アップロードで直せるので入れない場合は連絡ください。「どこかにありそうな、日本らしい街。」 日本の街並みを再現することを目標に、モデル持ち寄りにより共同で開発されているワールドです。ワールド制作協力者は随時募集中！ コンタクト≻≻ discord˸ YhK4gXr twitter˸ EngineerNeet",
 					"ReleaseStatus": "public",
-					"Platform": {
+					"Platform": 
+						{
 						"PC": true,
 						"Android": true
 					}
@@ -1740,7 +1882,8 @@
 					"Capacity": 60,
 					"Description": "Attention visitorsǃ there is no puzzles‚ and no definitive answer․ You decide what an ＂Organism＂ is․ 1․5- Boosty link added (check for some bonuses ）‚ Raindance Immersive Trophy added",
 					"ReleaseStatus": "public",
-					"Platform": {
+					"Platform": 
+						{
 						"PC": true,
 						"Android": true
 					}
@@ -1752,7 +1895,8 @@
 					"Capacity": 4,
 					"Description": "A horror experience based on the works of the SCP Foundation community․ 4 players max․ Progress is local‚ late joiners will have to catch up with others․",
 					"ReleaseStatus": "public",
-					"Platform": {
+					"Platform": 
+						{
 						"PC": true,
 						"Android": true
 					}
@@ -1764,7 +1908,8 @@
 					"Capacity": 20,
 					"Description": "大切なことは言葉にならない。",
 					"ReleaseStatus": "public",
-					"Platform": {
+					"Platform": 
+						{
 						"PC": true,
 						"Android": true
 					}
@@ -1776,7 +1921,8 @@
 					"Capacity": 32,
 					"Description": "現在開発中の花札ギミックオープンβ後のワールドです。おやすみなさい。",
 					"ReleaseStatus": "public",
-					"Platform": {
+					"Platform": 
+						{
 						"PC": true,
 						"Android": true
 					}
@@ -1794,7 +1940,8 @@
 					"Capacity": 24,
 					"Description": "なんか変な家の3DモデルがBoothに出てたのでなんとなくチルワールドにしました",
 					"ReleaseStatus": "public",
-					"Platform": {
+					"Platform": 
+						{
 						"PC": true,
 						"Android": true
 					}
@@ -1806,7 +1953,8 @@
 					"Capacity": 16,
 					"Description": "『ファミレスを享受せよ』の舞台、ムーンパレスの再現ワールドです。ネタバレ防止のため、序盤で行ける範囲だけ作っています。",
 					"ReleaseStatus": "public",
-					"Platform": {
+					"Platform": 
+						{
 						"PC": true,
 						"Android": true
 					}
@@ -1818,7 +1966,8 @@
 					"Capacity": 64,
 					"Description": "四天王とボスは各人でご用意ください",
 					"ReleaseStatus": "public",
-					"Platform": {
+					"Platform": 
+						{
 						"PC": true,
 						"Android": true
 					}
@@ -1830,7 +1979,8 @@
 					"Capacity": 10,
 					"Description": "DECO∗27様楽曲の「モニタリング」の再現ワールドを制作しました！ ワールド内に魚眼(PCのみ）、覗き穴のフレ-ム、QVPEN、CatMirror、videoplayerのONOFFがございます。 撮影の際はご自身で調節をお願いします。 1/8更新：説明画像のONOFFを追加しました。",
 					"ReleaseStatus": "public",
-					"Platform": {
+					"Platform": 
+						{
 						"PC": true,
 						"Android": true
 					}
@@ -1842,7 +1992,8 @@
 					"Capacity": 60,
 					"Description": "145作目は『少女レイ』のMVを再現したワールド。使用アセットはQvPen、動画プレーヤーだけ。すべてモデリング・Animation制作しました。動画プレイリストにはいろんな『少女レイ』が入ってますよ。容量５MB。",
 					"ReleaseStatus": "public",
-					"Platform": {
+					"Platform": 
+						{
 						"PC": true,
 						"Android": true
 					}
@@ -1854,7 +2005,8 @@
 					"Capacity": 12,
 					"Description": "『注意！原作を知らないと楽しめないかもしれません。一度に登場できるのは2名です。複数で来た場合3～4分の待ち時間が発生します。 』PS2・PS3のホラーゲーム「SIREN」「SIREN˸ NT」をテーマにした非公式ファンメイドのライドアトラクションです。2024年8月24日に開催された同ゲームの愛好家集会「SIREN異界永住集会2024」の会場跡地でもあります。",
 					"ReleaseStatus": "public",
-					"Platform": {
+					"Platform": 
+						{
 						"PC": true,
 						"Android": true
 					}
@@ -1866,7 +2018,8 @@
 					"Capacity": 30,
 					"Description": "backrooms",
 					"ReleaseStatus": "public",
-					"Platform": {
+					"Platform": 
+						{
 						"PC": true,
 						"Android": true
 					}
@@ -1878,7 +2031,8 @@
 					"Capacity": 32,
 					"Description": "Pandorras Sky Fall",
 					"ReleaseStatus": "public",
-					"Platform": {
+					"Platform": 
+						{
 						"PC": true,
 						"Android": true
 					}
@@ -1890,7 +2044,8 @@
 					"Capacity": 80,
 					"Description": "An RP map for SCP Foundation Site-97 from upcoming game ＂SCP˸Infohazard＂․ Custom names‚ private conversation rooms and more․",
 					"ReleaseStatus": "public",
-					"Platform": {
+					"Platform": 
+						{
 						"PC": true,
 						"Android": true
 					}
@@ -1902,7 +2057,8 @@
 					"Capacity": 40,
 					"Description": "Added another sub level to find",
 					"ReleaseStatus": "public",
-					"Platform": {
+					"Platform": 
+						{
 						"PC": true,
 						"Android": true
 					}
@@ -1914,7 +2070,8 @@
 					"Capacity": 64,
 					"Description": "あの『ンョ゛ハー ゛』がVRChatにやってきた！ ネットで広く知られる看板「ンョ゛ハー ゛」とその周辺をフォトグラメトリ！ あの聖地をVRCで拝んじゃおう！ made with photogrammetry",
 					"ReleaseStatus": "public",
-					"Platform": {
+					"Platform": 
+						{
 						"PC": true,
 						"Android": true
 					}
@@ -1932,7 +2089,8 @@
 					"Capacity": 30,
 					"Description": "日本人の初心者の方向けの各種解説ワールドです。0224更新",
 					"ReleaseStatus": "public",
-					"Platform": {
+					"Platform": 
+						{
 						"PC": true,
 						"Android": true
 					}
@@ -1944,7 +2102,8 @@
 					"Capacity": 60,
 					"Description": "VRC-JP 初心者プラザ(通称：ジェイプラ）はVRChat公認Discordコミュニティ「VRC-JP」運営チームによるVRChatを始めたばかりのVisitor、NewUserなど初心者向けの遊び方を紹介するワールドです。 初心者向けのVRChatの操作説明を配置している〈チュートリアルエリア〉 個人・法人問わず、事前の利用許可等なく使用できる〈イベントホール〉。広場で交流できますし、ワールドポータルやアバターペデスタルを置いたエリアもあります。初心者はもちろんベテランでも新たな発見があるかと思います！どうぞご活用ください。 問い合わせはVRC-JP ディスコードサーバーへ(検索でVRC-JPかVRCグループ：VRCJP․3765 より飛べます）",
 					"ReleaseStatus": "public",
-					"Platform": {
+					"Platform": 
+						{
 						"PC": true,
 						"Android": true
 					}
@@ -1956,7 +2115,8 @@
 					"Capacity": 40,
 					"Description": "マッチング用タグマーカー搭載！日本語話者向け集会場「FUJIYAMA」 公式X(旧Twitter）：＠JP_Fujiyama",
 					"ReleaseStatus": "public",
-					"Platform": {
+					"Platform": 
+						{
 						"PC": true,
 						"Android": true
 					}
@@ -1968,7 +2128,8 @@
 					"Capacity": 60,
 					"Description": "Version 1․2․1",
 					"ReleaseStatus": "public",
-					"Platform": {
+					"Platform": 
+						{
 						"PC": true,
 						"Android": true
 					}
@@ -1980,7 +2141,8 @@
 					"Capacity": 30,
 					"Description": "5分間 1対1でお話しするワールドです。5分間話した後はワールドギミックで自動的にシャッフルが入り、また別の人とお話しすることが出来ます。困った時用の会話デッキギミック等もあります。Nagisa jp",
 					"ReleaseStatus": "public",
-					"Platform": {
+					"Platform": 
+						{
 						"PC": true,
 						"Android": true
 					}
@@ -1992,7 +2154,8 @@
 					"Capacity": 80,
 					"Description": "「灯火」は3人でお話ができるワールドです。3人だけの空間に自動転送され、プライベートなワールドの感覚で、興味のある話題についてお話ができます。パブリックインスタンスでの利用を推奨します。In this world's public instances‚ it is recommended to speak in Japanese․",
 					"ReleaseStatus": "public",
-					"Platform": {
+					"Platform": 
+						{
 						"PC": true,
 						"Android": true
 					}
@@ -2004,7 +2167,8 @@
 					"Capacity": 40,
 					"Description": "楽しいワールドギミックがなんと100種類！ 一人でゆっくり遊んだり、みんなとワイワイ遊んだり！ 初心者さんでも遊びやすいギミックをたくさん用意してます！いつでも遊びに来てください！",
 					"ReleaseStatus": "public",
-					"Platform": {
+					"Platform": 
+						{
 						"PC": true,
 						"Android": true
 					}
@@ -2016,7 +2180,8 @@
 					"Capacity": 40,
 					"Description": "フレンドは増えてきたけど一緒に遊ぶ友達は増えない・・・。そんな人のための友達を作るためのワールドです。ここに居る人はみんな友達が欲しいはずなので勇気を持って話しかけてください。ゲームワールドに一緒に行く人員を探す事にもご利用いただけます。",
 					"ReleaseStatus": "public",
-					"Platform": {
+					"Platform": 
+						{
 						"PC": true,
 						"Android": true
 					}
@@ -2028,7 +2193,8 @@
 					"Capacity": 36,
 					"Description": "お砂糖に興味がある人向けのマッチングワールドです。お砂糖へのはじめの一歩をお手伝いできればと思います。 Group˸ OSATOU․3270",
 					"ReleaseStatus": "public",
-					"Platform": {
+					"Platform": 
+						{
 						"PC": true,
 						"Android": true
 					}
@@ -2040,7 +2206,8 @@
 					"Capacity": 64,
 					"Description": "居心地ポイント制 日本人向け集会場ワールド MAKUAKE SNSへの投稿は ＃MAKUAKE_VRC",
 					"ReleaseStatus": "public",
-					"Platform": {
+					"Platform": 
+						{
 						"PC": true,
 						"Android": true
 					}
@@ -2052,7 +2219,8 @@
 					"Capacity": 80,
 					"Description": "VRCくりえいてぃ部のグループ用インスタンスです。 クリエイター(イラスト・モデル・音楽など）の方におすすめな画面共有やアバター展示場所を用意しています。",
 					"ReleaseStatus": "public",
-					"Platform": {
+					"Platform": 
+						{
 						"PC": true,
 						"Android": true
 					}
@@ -2064,7 +2232,8 @@
 					"Capacity": 80,
 					"Description": "ポピー横丁は日本の新宿にあるゴールデン街と言う飲み屋街をモチーフに作成しました。「酒は人間を映し出す鏡である。今日も鏡の前で。」Poppy Yokocho is a world with the motif of a bar street Golden Gai in Shinjuku‚ Japan․［Alcohol is a mirror that reflects humanity․Today‚ in front of the mirror too․］",
 					"ReleaseStatus": "public",
-					"Platform": {
+					"Platform": 
+						{
 						"PC": true,
 						"Android": true
 					}
@@ -2076,7 +2245,8 @@
 					"Capacity": 60,
 					"Description": "155作目はPC/trueの飲み屋街ワールド。バー、ビリヤードあり。VR睡眠部屋やビル屋上など隠しスペース数カ所あります【アプデ情報】2024․3․14軽量化、機能追加しました。The 155th world is Japanese Bar Town street World․ An old-fashioned bar district․ There is also billiards․ There are several hidden spaces such as a VR sleeping room․",
 					"ReleaseStatus": "public",
-					"Platform": {
+					"Platform": 
+						{
 						"PC": true,
 						"Android": true
 					}
@@ -2088,7 +2258,8 @@
 					"Capacity": 80,
 					"Description": "東門街 - Higashimon Street V4․01․ 居酒屋 パズル‚ 生田・神戸の酒場․ (Solve the puzzle for a surprise）Chat with friends in Higashimon Street․ Modelled on the drinking district of Ikuta‚ Kobe Japan․",
 					"ReleaseStatus": "public",
-					"Platform": {
+					"Platform": 
+						{
 						"PC": true,
 						"Android": true
 					}
@@ -2100,7 +2271,8 @@
 					"Capacity": 64,
 					"Description": "何かに負けた人が敗ボールで完敗する場所",
 					"ReleaseStatus": "public",
-					"Platform": {
+					"Platform": 
+						{
 						"PC": true,
 						"Android": true
 					}
@@ -2112,7 +2284,8 @@
 					"Capacity": 40,
 					"Description": "男性アバターを好む人が集まる集会場です。イベントではありません。雑談、待ち合わせなどにお使いください。男性アバターが好きであれば使用アバターの性別は問いません。 ＃VRC_MAR",
 					"ReleaseStatus": "public",
-					"Platform": {
+					"Platform": 
+						{
 						"PC": true,
 						"Android": true
 					}
@@ -2124,7 +2297,8 @@
 					"Capacity": 30,
 					"Description": "VR睡眠の添い寝相手を探すワールドです。マッチング用タグマーカー搭載！検索用 suimin neru sleep＃いっしょに寝ようよ",
 					"ReleaseStatus": "public",
-					"Platform": {
+					"Platform": 
+						{
 						"PC": true,
 						"Android": true
 					}
@@ -2136,7 +2310,8 @@
 					"Capacity": 40,
 					"Description": "声劇荘VRC支部",
 					"ReleaseStatus": "public",
-					"Platform": {
+					"Platform": 
+						{
 						"PC": true,
 						"Android": true
 					}
